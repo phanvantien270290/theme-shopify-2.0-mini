@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Otvorenie čoskoro"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Prehľadajte náš obchod",
       "placeholder": "Vyhľadávanie produktov",
@@ -51,7 +52,7 @@
         "other": "Found {{ count }} results for \"{{ terms }}\""
       },
       "no_results": "Žiadny výsledok pre",
-      "no_results_html": "Skúste iný hľadaný výraz alebo sa vráťte na <a href=\"/\">domovská stránka</a>."
+      "no_results_html": "Skúste iný hľadaný výraz alebo sa vráťte na <a href=\"\/\">domovská stránka<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Ďakujem za prihlásenie"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Kupón",
       "subtotal": "Medzisúčet",
       "taxes_and_shipping_at_checkout": "Dane a doprava vypočítané pri pokladni",
-      "taxes_and_shipping_policy_at_checkout_html": "Dane a <a href=\"{{ link }}\"> doprava</a> vypočítaná pri pokladni",
+      "taxes_and_shipping_policy_at_checkout_html": "Dane a <a href=\"{{ link }}\"> doprava<\/a> vypočítaná pri pokladni",
       "taxes_included_but_shipping_at_checkout": "Zahrnutá daň a doprava vypočítaná pri pokladni",
-      "taxes_included_and_shipping_policy_html": "Vrátane dane. <a href=\"{{ link }}\"> Doprava</a> vypočítaná pri pokladni.",
+      "taxes_included_and_shipping_policy_html": "Vrátane dane. <a href=\"{{ link }}\"> Doprava<\/a> vypočítaná pri pokladni.",
       "enter_discount_code": "Zadajte zľavový kód tu",
       "checkout": "Vysúšaj",
       "viewcart": "Zobraziť košík",
@@ -244,7 +245,7 @@
       "city": "Mesto",
       "country": "Krajina",
       "province": "Provincia",
-      "zip": "PSČ/PSČ",
+      "zip": "PSČ\/PSČ",
       "phone": "Telefón",
       "set_default": "Nastavenie ako predvolená adresa",
       "update": "Aktualizácia adresy",
@@ -380,7 +381,7 @@
         "regular_price": "Bežná cena",
         "sale_price": "Predajná cena",
         "unit_price": "Jednotková cena",
-        "save_price_html": "Uložiť <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Uložiť <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Predobjednávka",
       "product_quantity": "Množstvo produktu",
@@ -400,7 +401,7 @@
       "copy_link": "Prepojenie Kopírovať",
       "unit_price_label": "Jednotková cena",
       "size_guide": "Sprievodca veľkosťou",
-      "save_html": "Zachrániť <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Zachrániť <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Nedávno prezerané produkty",
       "select_options": "Výber možností",
       "sold": "Predaný",
@@ -411,8 +412,8 @@
         "view_store_info": "Zobrazenie informácií o obchode",
         "check_other_stores": "Skontrolujte dostupnosť v iných obchodoch",
         "pick_up_available": "K dispozícii je vyzdvihnutie",
-        "pick_up_available_at_html": "Vyzdvihnutie je k dispozícii na adrese <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Vyzdvihnutie momentálne nie je k dispozícii na letisku <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Vyzdvihnutie je k dispozícii na adrese <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Vyzdvihnutie momentálne nie je k dispozícii na letisku <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Nepodarilo sa načítať dostupnosť vyzdvihnutia",
         "refresh": "Občerstviť"
       }

@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Binnenkort geopend"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Zoek in onze winkel",
       "placeholder": "Zoek producten",
@@ -51,7 +52,7 @@
         "other": "Gevonden {{ count }} resultaten voor \"{{ terms }}\""
       },
       "no_results": "Geen resultaat voor",
-      "no_results_html": "Probeer een andere zoekterm of ga terug naar de <a href=\"/\">hoofdpagina</a>."
+      "no_results_html": "Probeer een andere zoekterm of ga terug naar de <a href=\"\/\">hoofdpagina<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Bedankt voor je inschrijving"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Coupon",
       "subtotal": "Subtotaal",
       "taxes_and_shipping_at_checkout": "Belastingen en verzendkosten berekend bij het afrekenen",
-      "taxes_and_shipping_policy_at_checkout_html": "Belastingen en <a href=\"{{ link }}\">verzending</a> berekend bij het afrekenen",
+      "taxes_and_shipping_policy_at_checkout_html": "Belastingen en <a href=\"{{ link }}\">verzending<\/a> berekend bij het afrekenen",
       "taxes_included_but_shipping_at_checkout": "Belasting inbegrepen en verzendkosten berekend bij het afrekenen",
-      "taxes_included_and_shipping_policy_html": "Belasting inbegrepen. <a href=\"{{ link }}\">Verzending</a> berekend bij het afrekenen.",
+      "taxes_included_and_shipping_policy_html": "Belasting inbegrepen. <a href=\"{{ link }}\">Verzending<\/a> berekend bij het afrekenen.",
       "enter_discount_code": "Voer hier de kortingscode in",
       "checkout": "Uitchecken",
       "viewcart": "Bekijk winkelwagen",
@@ -380,7 +381,7 @@
         "regular_price": "Normale prijs",
         "sale_price": "Verkoopprijs",
         "unit_price": "Eenheidsprijs",
-        "save_price_html": "Opslaan <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Opslaan <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Pre-orderen",
       "product_quantity": "Aantal producten",
@@ -400,7 +401,7 @@
       "copy_link": "Link kopiëren",
       "unit_price_label": "Eenheidsprijs",
       "size_guide": "Maattabel",
-      "save_html": "Redden <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Redden <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Recent bekeken producten",
       "select_options": "Opties selecteren",
       "sold": "Verkocht",
@@ -411,8 +412,8 @@
         "view_store_info": "Winkelgegevens weergeven",
         "check_other_stores": "Controleer beschikbaarheid bij andere winkels",
         "pick_up_available": "Afhalen beschikbaar",
-        "pick_up_available_at_html": "Afhalen beschikbaar bij <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Afhalen momenteel niet beschikbaar op <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Afhalen beschikbaar bij <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Afhalen momenteel niet beschikbaar op <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Kan de beschikbaarheid van ophalen niet laden",
         "refresh": "Opfrissen"
       }

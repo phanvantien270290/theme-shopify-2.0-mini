@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Скоро открытие"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Поиск в нашем магазине",
       "placeholder": "Поиск товаров",
@@ -51,7 +52,7 @@
         "other": "Найдены результаты {{ count }} для \"{{ terms }}\""
       },
       "no_results": "Нет результата для",
-      "no_results_html": "Пожалуйста, попробуйте другой поисковый запрос или вернитесь на домашнюю страницу <a href=\"/\"></a>."
+      "no_results_html": "Пожалуйста, попробуйте другой поисковый запрос или вернитесь на домашнюю страницу <a href=\"\/\"><\/a>."
     },
     "newsletter_form": {
       "confirmation": "Спасибо за подписку"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Талон",
       "subtotal": "Промежуточная сумма",
       "taxes_and_shipping_at_checkout": "Налоги и доставка, рассчитанные при оформлении заказа",
-      "taxes_and_shipping_policy_at_checkout_html": "Налоги и <a href=\"{{ link }}\">погрузка</a> рассчитывается при оформлении заказа",
+      "taxes_and_shipping_policy_at_checkout_html": "Налоги и <a href=\"{{ link }}\">погрузка<\/a> рассчитывается при оформлении заказа",
       "taxes_included_but_shipping_at_checkout": "Налог включен и доставка, рассчитанная при оформлении заказа",
-      "taxes_included_and_shipping_policy_html": "Налог включен. <a href=\"{{ link }}\">погрузка</a> вычисляется при оформлении заказа.",
+      "taxes_included_and_shipping_policy_html": "Налог включен. <a href=\"{{ link }}\">погрузка<\/a> вычисляется при оформлении заказа.",
       "enter_discount_code": "Введите код скидки здесь",
       "checkout": "Извлечь",
       "viewcart": "Посмотреть корзину",
@@ -380,7 +381,7 @@
         "regular_price": "Обычная цена",
         "sale_price": "Цена продажи",
         "unit_price": "Цена за единицу",
-        "save_price_html": "Сохранить <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Сохранить <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Предзаказ",
       "product_quantity": "Количество продукта",
@@ -400,7 +401,7 @@
       "copy_link": "Копировать ссылку",
       "unit_price_label": "Цена за единицу",
       "size_guide": "Руководство по размеру",
-      "save_html": "Спасать <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Спасать <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Недавно просмотренные товары",
       "select_options": "Выберите параметры",
       "sold": "Продавать",
@@ -411,8 +412,8 @@
         "view_store_info": "Просмотр сведений о магазине",
         "check_other_stores": "Проверить наличие мест в других магазинах",
         "pick_up_available": "Возможен самовывоз",
-        "pick_up_available_at_html": "Самовывоз доступен по адресу <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Самовывоз в настоящее время недоступен по адресу <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Самовывоз доступен по адресу <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Самовывоз в настоящее время недоступен по адресу <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Не удалось загрузить наличие пикапа",
         "refresh": "Освежать"
       }

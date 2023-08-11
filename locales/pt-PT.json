@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Abertura em breve"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Pesse na nossa loja",
       "placeholder": "Pesquisar produtos",
@@ -51,7 +52,7 @@
         "other": "Encontrado {{ count }} resultados para \"{{ terms }}}"
       },
       "no_results": "Nenhum resultado para",
-      "no_results_html": "Por favor, experimente um termo de pesquisa diferente ou volte para a página <a href=\"/\">home.</a>"
+      "no_results_html": "Por favor, experimente um termo de pesquisa diferente ou volte para a página <a href=\"\/\">home.<\/a>"
     },
     "newsletter_form": {
       "confirmation": "Obrigado por subscrever"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Cupão",
       "subtotal": "Subtotal",
       "taxes_and_shipping_at_checkout": "Impostos e envios calculados no checkout",
-      "taxes_and_shipping_policy_at_checkout_html": "Impostos e <a href=\"{{ link }}\">envio</a> calculado no checkout",
+      "taxes_and_shipping_policy_at_checkout_html": "Impostos e <a href=\"{{ link }}\">envio<\/a> calculado no checkout",
       "taxes_included_but_shipping_at_checkout": "Imposto incluído e envio calculado no checkout",
-      "taxes_included_and_shipping_policy_html": "Imposto incluído. <a href=\"{{ link }}\">Envio</a> calculado no checkout.",
+      "taxes_included_and_shipping_policy_html": "Imposto incluído. <a href=\"{{ link }}\">Envio<\/a> calculado no checkout.",
       "enter_discount_code": "Insira código de desconto aqui",
       "checkout": "Fazer Check-out",
       "viewcart": "Ver Carrinho",
@@ -244,7 +245,7 @@
       "city": "Cidade",
       "country": "País",
       "province": "Província",
-      "zip": "Código Postal/Postal",
+      "zip": "Código Postal\/Postal",
       "phone": "Telefone",
       "set_default": "Configurar como endereço predefinido",
       "update": "Endereço de atualização",
@@ -380,7 +381,7 @@
         "regular_price": "Preço regular",
         "sale_price": "Preço de venda",
         "unit_price": "Preço unitário",
-        "save_price_html": "Guardar <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Guardar <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Pré-encomenda",
       "product_quantity": "Quantidade do produto",
@@ -400,7 +401,7 @@
       "copy_link": "Link de cópia",
       "unit_price_label": "Preço unitário",
       "size_guide": "Guia de tamanho",
-      "save_html": "Poupe <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Poupe <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Produtos recentemente vistos",
       "select_options": "Selecione opções",
       "sold": "Vendido",
@@ -411,8 +412,8 @@
         "view_store_info": "Ver informações da loja",
         "check_other_stores": "Ver disponibilidade em outras lojas",
         "pick_up_available": "Recolha disponível",
-        "pick_up_available_at_html": "Pickup disponível em <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Pickup atualmente indisponível em <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Pickup disponível em <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Pickup atualmente indisponível em <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Não podia carregar a disponibilidade de recolha",
         "refresh": "Refrescar"
       }

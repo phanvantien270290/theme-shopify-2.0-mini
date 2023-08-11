@@ -1,8 +1,9 @@
 {
-  "name": "Page search",
   "sections": {
     "main": {
-      "type": "page-search"
+      "type": "page-search",
+      "settings": {
+      }
     }
   },
   "order": [

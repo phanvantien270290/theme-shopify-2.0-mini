@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "เปิดเร็ว ๆ นี้"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "ค้นหาร้านค้าของเรา",
       "placeholder": "ค้นหาผลิตภัณฑ์",
@@ -51,7 +52,7 @@
         "other": "พบผลลัพธ์ {{ count }} สําหรับ \"{{ terms }}\""
       },
       "no_results": "ไม่มีผลลัพธ์สําหรับ",
-      "no_results_html": "โปรดลองใช้คําค้นหาอื่นหรือกลับไปที่ <a href=\"/\">โฮมเพจ</a>"
+      "no_results_html": "โปรดลองใช้คําค้นหาอื่นหรือกลับไปที่ <a href=\"\/\">โฮมเพจ<\/a>"
     },
     "newsletter_form": {
       "confirmation": "ขอบคุณสําหรับการสมัคร"
@@ -128,9 +129,9 @@
       "drawer_coupon": "คูปอง",
       "subtotal": "ยอดรวมย่อย",
       "taxes_and_shipping_at_checkout": "ภาษีและการจัดส่งที่คํานวณได้ในขั้นตอนการชําระเงิน",
-      "taxes_and_shipping_policy_at_checkout_html": "ภาษีและ<a href=\"{{ link }}\">จัด ส่ง</a> คํานวณเมื่อชําระเงิน",
+      "taxes_and_shipping_policy_at_checkout_html": "ภาษีและ<a href=\"{{ link }}\">จัด ส่ง<\/a> คํานวณเมื่อชําระเงิน",
       "taxes_included_but_shipping_at_checkout": "ภาษีรวมและค่าจัดส่งคํานวณในขั้นตอนการชําระเงิน",
-      "taxes_included_and_shipping_policy_html": "รวมภาษีแล้ว <a href=\"{{ link }}\">จัด ส่ง</a> คํานวณเมื่อชําระเงิน.",
+      "taxes_included_and_shipping_policy_html": "รวมภาษีแล้ว <a href=\"{{ link }}\">จัด ส่ง<\/a> คํานวณเมื่อชําระเงิน.",
       "enter_discount_code": "ใส่รหัสส่วนลดที่นี่",
       "checkout": "เช็คเอาท์",
       "viewcart": "ดูรถเข็น",
@@ -380,7 +381,7 @@
         "regular_price": "ราคาปกติ",
         "sale_price": "ราคาขาย",
         "unit_price": "ราคาต่อหน่วย",
-        "save_price_html": "บันทึก <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "บันทึก <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "สั่งซื้อล่วงหน้า",
       "product_quantity": "ปริมาณผลิตภัณฑ์",
@@ -400,7 +401,7 @@
       "copy_link": "คัดลอกลิงก์",
       "unit_price_label": "ราคาต่อหน่วย",
       "size_guide": "คู่มือขนาด",
-      "save_html": "บันทึก <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "บันทึก <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "ผลิตภัณฑ์ที่ดูล่าสุด",
       "select_options": "เลือกตัวเลือก",
       "sold": "ขาย",
@@ -411,8 +412,8 @@
         "view_store_info": "ดูข้อมูลร้านค้า",
         "check_other_stores": "ตรวจสอบความพร้อมให้บริการที่ร้านอื่น",
         "pick_up_available": "มีบริการรับสินค้า",
-        "pick_up_available_at_html": "มีบริการรับสินค้าที่ <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "ขณะนี้รถกระบะยังไม่พร้อมใช้งานที่ <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "มีบริการรับสินค้าที่ <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "ขณะนี้รถกระบะยังไม่พร้อมใช้งานที่ <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "ไม่สามารถโหลดความพร้อมในการรับสินค้าได้",
         "refresh": "ฟื้นฟู"
       }

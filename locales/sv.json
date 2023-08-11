@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Öppnar snart"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Sök i vår butik",
       "placeholder": "Sök produkter",
@@ -51,7 +52,7 @@
         "other": "Hittade {{ count }} resultat för \"{{ terms }}\""
       },
       "no_results": "Inget resultat för",
-      "no_results_html": "Prova ett annat sökord eller gå tillbaka till <a href=\"/\">hemsida</a>."
+      "no_results_html": "Prova ett annat sökord eller gå tillbaka till <a href=\"\/\">hemsida<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Tack för att du prenumererade"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Kupong",
       "subtotal": "Delsumma",
       "taxes_and_shipping_at_checkout": "Skatter och frakt beräknas i kassan",
-      "taxes_and_shipping_policy_at_checkout_html": "Skatter och <a href=\"{{ link }}\">frakt</a> beräknas i kassan",
+      "taxes_and_shipping_policy_at_checkout_html": "Skatter och <a href=\"{{ link }}\">frakt<\/a> beräknas i kassan",
       "taxes_included_but_shipping_at_checkout": "Skatt ingår och frakt beräknas i kassan",
-      "taxes_included_and_shipping_policy_html": "Skatt ingår. <a href=\"{{ link }}\">Frakt</a> beräknas i kassan.",
+      "taxes_included_and_shipping_policy_html": "Skatt ingår. <a href=\"{{ link }}\">Frakt<\/a> beräknas i kassan.",
       "enter_discount_code": "Ange rabattkod här",
       "checkout": "Kontrollera",
       "viewcart": "Visa kundvagn",
@@ -244,7 +245,7 @@
       "city": "Stad",
       "country": "Land",
       "province": "Provins",
-      "zip": "Postnummer/postnummer",
+      "zip": "Postnummer\/postnummer",
       "phone": "Telefon",
       "set_default": "Ange som standardadress",
       "update": "Uppdatera adress",
@@ -380,7 +381,7 @@
         "regular_price": "Ordinarie pris",
         "sale_price": "Försäljningspris",
         "unit_price": "Jämförpris",
-        "save_price_html": "Spara <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Spara <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Förbeställ",
       "product_quantity": "Produkt kvantitet",
@@ -400,7 +401,7 @@
       "copy_link": "Kopiera länk",
       "unit_price_label": "Jämförpris",
       "size_guide": "Storleksguide",
-      "save_html": "Spara <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Spara <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Nyligen visade produkter",
       "select_options": "Välj alternativ",
       "sold": "Såld",
@@ -411,8 +412,8 @@
         "view_store_info": "Visa butiksinformation",
         "check_other_stores": "Kontrollera tillgänglighet i andra butiker",
         "pick_up_available": "Upphämtning tillgänglig",
-        "pick_up_available_at_html": "Upphämtning finns på <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Upphämtning är för närvarande inte tillgänglig på <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Upphämtning finns på <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Upphämtning är för närvarande inte tillgänglig på <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Det gick inte att ladda upphämtningstillgängligheten",
         "refresh": "Svalka"
       }

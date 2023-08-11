@@ -1,8 +1,9 @@
 {
-  "name": "Page",
   "sections": {
     "main": {
-      "type": "page"
+      "type": "page",
+      "settings": {
+      }
     }
   },
   "order": [

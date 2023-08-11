@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Deschiderea în curând"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Caută în magazinul nostru",
       "placeholder": "Caută produse",
@@ -51,7 +52,7 @@
         "other": "Found {{ count }} results for \"{{ terms }}\""
       },
       "no_results": "Nici un rezultat pentru",
-      "no_results_html": "Încercați un alt termen de căutare sau reveniți la <a href=\"/\">pagina de pornire</a>."
+      "no_results_html": "Încercați un alt termen de căutare sau reveniți la <a href=\"\/\">pagina de pornire<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Multumesc pentru abonarea"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Coupon",
       "subtotal": "Subtotal",
       "taxes_and_shipping_at_checkout": "Taxe și expedieri calculate la checkout",
-      "taxes_and_shipping_policy_at_checkout_html": "Taxe și <a href=\"{{ link }}\">expediere</a> calculat la checkout",
+      "taxes_and_shipping_policy_at_checkout_html": "Taxe și <a href=\"{{ link }}\">expediere<\/a> calculat la checkout",
       "taxes_included_but_shipping_at_checkout": "Taxa inclusă și transportul calculat la checkout",
-      "taxes_included_and_shipping_policy_html": "Taxe incluse. <a href=\"{{ link }}\">Expediere</a> calculat la checkout.",
+      "taxes_included_and_shipping_policy_html": "Taxe incluse. <a href=\"{{ link }}\">Expediere<\/a> calculat la checkout.",
       "enter_discount_code": "Introduceți codul de reducere aici",
       "checkout": "Consultă",
       "viewcart": "Vezi cosul",
@@ -244,7 +245,7 @@
       "city": "Oraș",
       "country": "Țară",
       "province": "Provincie",
-      "zip": "Cod poștal/poștal",
+      "zip": "Cod poștal\/poștal",
       "phone": "Telefon",
       "set_default": "Setarea ca adresă implicită",
       "update": "Adresa de actualizare",
@@ -380,7 +381,7 @@
         "regular_price": "Preț obișnuit",
         "sale_price": "Prețul de vânzare",
         "unit_price": "Preț unitar",
-        "save_price_html": "Salvați <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Salvați <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Precomandă",
       "product_quantity": "Cantitatea produsului",
@@ -400,7 +401,7 @@
       "copy_link": "Copiați linkul",
       "unit_price_label": "Preț unitar",
       "size_guide": "Ghid de dimensiune",
-      "save_html": "Salvați <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Salvați <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Produse vizualizate recent",
       "select_options": "Selectarea opțiunilor",
       "sold": "Vîndut",
@@ -411,8 +412,8 @@
         "view_store_info": "Vizualizarea informațiilor despre magazin",
         "check_other_stores": "Verificați disponibilitatea la alte magazine",
         "pick_up_available": "Preluare disponibilă",
-        "pick_up_available_at_html": "Preluare disponibilă la <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Preluare indisponibilă în prezent la <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Preluare disponibilă la <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Preluare indisponibilă în prezent la <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Nu s-a putut încărca disponibilitatea de preluare",
         "refresh": "Împrospăta"
       }

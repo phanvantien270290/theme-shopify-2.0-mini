@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Ouverture prochaine"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Rechercher dans notre magasin",
       "placeholder": "Rechercher des produits",
@@ -51,7 +52,7 @@
         "other": "Résultats {{ count }} trouvés pour « {{ terms }} »"
       },
       "no_results": "Aucun résultat pour",
-      "no_results_html": "Veuillez essayer un autre terme de recherche ou revenir à la page d’accueil <a href=\"/\">page d’accueil</a>."
+      "no_results_html": "Veuillez essayer un autre terme de recherche ou revenir à la page d’accueil <a href=\"\/\">page d’accueil<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Merci de vous être abonné"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Coupon",
       "subtotal": "Sous-total",
       "taxes_and_shipping_at_checkout": "Taxes et frais de port calculés à la caisse",
-      "taxes_and_shipping_policy_at_checkout_html": "Taxes et <a href=\"{{ link }}\">expédition</a> calculée à la caisse",
+      "taxes_and_shipping_policy_at_checkout_html": "Taxes et <a href=\"{{ link }}\">expédition<\/a> calculée à la caisse",
       "taxes_included_but_shipping_at_checkout": "Taxes incluses et frais de port calculés à la caisse",
-      "taxes_included_and_shipping_policy_html": "Taxes incluses. <a href=\"{{ link }}\">expédition</a> calculé à la caisse.",
+      "taxes_included_and_shipping_policy_html": "Taxes incluses. <a href=\"{{ link }}\">expédition<\/a> calculé à la caisse.",
       "enter_discount_code": "Entrez le code de réduction ici",
       "checkout": "Vérifier",
       "viewcart": "Voir le panier",
@@ -244,7 +245,7 @@
       "city": "Ville",
       "country": "Pays",
       "province": "Province",
-      "zip": "Code postal/postal",
+      "zip": "Code postal\/postal",
       "phone": "Téléphone",
       "set_default": "Définir comme adresse par défaut",
       "update": "Mettre à jour l’adresse",
@@ -380,7 +381,7 @@
         "regular_price": "Prix régulier",
         "sale_price": "Prix de vente",
         "unit_price": "Prix unitaire",
-        "save_price_html": "Enregistrer <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Enregistrer <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Précommande",
       "product_quantity": "Quantité de produit",
@@ -400,7 +401,7 @@
       "copy_link": "Copier le lien",
       "unit_price_label": "Prix unitaire",
       "size_guide": "Guide des tailles",
-      "save_html": "Enregistrer <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Enregistrer <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Produits récemment consultés",
       "select_options": "Sélectionner les options",
       "sold": "Vendu",
@@ -411,8 +412,8 @@
         "view_store_info": "Afficher les informations du magasin",
         "check_other_stores": "Vérifier la disponibilité dans d’autres magasins",
         "pick_up_available": "Ramassage disponible",
-        "pick_up_available_at_html": "Ramassage disponible à l’adresse <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Ramassage actuellement indisponible à <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Ramassage disponible à l’adresse <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Ramassage actuellement indisponible à <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Impossible de charger la disponibilité du ramassage",
         "refresh": "Rafraîchir"
       }

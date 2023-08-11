@@ -15,7 +15,9 @@
       }
     },
     "flash-sale": {
-      "type": "flash-sale"
+      "type": "flash-sale",
+      "settings": {
+      }
     },
     "main": {
       "type": "main-collection-product-grid",
@@ -24,20 +26,20 @@
         "grid_layout": "grid",
         "grid_columns": "4",
         "pagination_limit": 12,
+        "paginate_type": "paginate",
         "show_sorting": true,
         "show_filter": false,
         "filters_type": "tags_filter",
         "sidebar": "leftColumn",
         "sidebar_title": "Filters",
-        "limit_height_widget": false,
-        "paginate_type": "paginate"
+        "limit_height_widget": false
       }
     },
     "recent-viewed": {
       "type": "recent-viewed-products",
       "settings": {
-        "heading": "Recently Viewed Products",
         "container": "container",
+        "heading": "Recently Viewed Products",
         "columns": 4,
         "column_gap": 30,
         "enable_slider": true

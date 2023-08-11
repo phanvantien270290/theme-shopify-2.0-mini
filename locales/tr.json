@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Yakında Açılıyor"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Mağazamızda arama yapın",
       "placeholder": "Ürün ara",
@@ -51,7 +52,7 @@
         "other": "\"{{ terms }}\" için {{ count }} sonuçları bulundu"
       },
       "no_results": "Sonuç yok",
-      "no_results_html": "Lütfen farklı bir arama terimi deneyin veya <a href=\"/\">ana sayfasına geri dönün</a>."
+      "no_results_html": "Lütfen farklı bir arama terimi deneyin veya <a href=\"\/\">ana sayfasına geri dönün<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Abone olduğunuz için teşekkürler"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Kupon",
       "subtotal": "Ara toplam",
       "taxes_and_shipping_at_checkout": "Ödeme sırasında hesaplanan vergiler ve kargo",
-      "taxes_and_shipping_policy_at_checkout_html": "Vergiler ve <a href=\"{{ link }}\">ödeme</a> sırasında hesaplanır",
+      "taxes_and_shipping_policy_at_checkout_html": "Vergiler ve <a href=\"{{ link }}\">ödeme<\/a> sırasında hesaplanır",
       "taxes_included_but_shipping_at_checkout": "Ödeme sırasında hesaplanan vergi dahil ve kargo",
-      "taxes_included_and_shipping_policy_html": "Vergi dahildir. <a href=\"{{ link }}\">Ödeme</a> sırasında hesaplanan gönderim.",
+      "taxes_included_and_shipping_policy_html": "Vergi dahildir. <a href=\"{{ link }}\">Ödeme<\/a> sırasında hesaplanan gönderim.",
       "enter_discount_code": "İndirim kodunu buraya girin",
       "checkout": "Kontrol etme",
       "viewcart": "Sepeti Görüntüle",
@@ -380,7 +381,7 @@
         "regular_price": "Normal fiyat",
         "sale_price": "Satış fiyatı",
         "unit_price": "Birim fiyat",
-        "save_price_html": "Kaydet <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Kaydet <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Ön sipariş verin",
       "product_quantity": "Ürün miktarı",
@@ -400,7 +401,7 @@
       "copy_link": "Bağlantıyı kopyala",
       "unit_price_label": "Birim fiyat",
       "size_guide": "Boyut kılavuzu",
-      "save_html": "Kurtarmak <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Kurtarmak <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Son görüntülenen ürünler",
       "select_options": "Seçenekleri belirleyin",
       "sold": "Satılan",
@@ -411,8 +412,8 @@
         "view_store_info": "Mağaza bilgilerini görüntüleme",
         "check_other_stores": "Diğer mağazalardaki müsaitlik durumunu kontrol edin",
         "pick_up_available": "Teslim alma mevcut",
-        "pick_up_available_at_html": "Teslim alma şu adreste mevcuttur: <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Paket alımı şu anda şu adreste kullanılamıyor <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Teslim alma şu adreste mevcuttur: <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Paket alımı şu anda şu adreste kullanılamıyor <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Teslim alma kullanılabilirliği yüklenemedi",
         "refresh": "Yenilemek"
       }

@@ -18,7 +18,7 @@
             "text_size": "large",
             "text_color": "black",
             "subheading": "<span class=\"font-semibold\">New Arrivals<\/span>",
-            "title": "<span class=\"sf__font-normal\">Minimog Editions<\/span>",
+            "title": "<span class=\"sf__font-normal\">Minimog Editions 222<\/span>",
             "description": "",
             "image_link": "",
             "button_text": "Shop Now",
@@ -28,7 +28,8 @@
             "show_footer": true,
             "footer_alignment": "end",
             "footer_text": "The ReCotton Tee",
-            "footer_button": "Shop Now"
+            "footer_button": "Shop Now",
+            "footer_link": ""
           }
         },
         "slideshow-1": {
@@ -50,7 +51,8 @@
             "show_footer": true,
             "footer_alignment": "end",
             "footer_text": "The ReCotton Tee",
-            "footer_button": "Shop Now"
+            "footer_button": "Shop Now",
+            "footer_link": ""
           }
         },
         "slideshow-2": {
@@ -73,7 +75,8 @@
             "show_footer": true,
             "footer_alignment": "end",
             "footer_text": "The ReCotton Tee",
-            "footer_button": "Shop Now"
+            "footer_button": "Shop Now",
+            "footer_link": ""
           }
         }
       },
@@ -396,6 +399,9 @@
             "button_size": "",
             "text_size": "medium",
             "content_alignment": "center",
+            "product_list": [
+
+            ],
             "product_to_show": 6,
             "items_per_row": 2,
             "item_gap": 30,
@@ -414,6 +420,7 @@
         "9a3e8bcd-5794-42eb-8e4e-2a5865b48e29": {
           "type": "video",
           "settings": {
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
             "ratio": "4:3",
             "video_title": "",
             "text_size": "medium",

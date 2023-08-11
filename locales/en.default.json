@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Opening Soon"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Search our store",
       "placeholder": "Search products",
@@ -51,7 +52,7 @@
         "other": "Found {{ count }} results for \"{{ terms }}\""
       },
       "no_results": "No result for",
-      "no_results_html": "Please try a different search term or go back to the <a href=\"/\">homepage</a>."
+      "no_results_html": "Please try a different search term or go back to the <a href=\"\/\">homepage<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Thanks for subscribing"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Coupon",
       "subtotal": "Subtotal",
       "taxes_and_shipping_at_checkout": "Taxes and shipping calculated at checkout",
-      "taxes_and_shipping_policy_at_checkout_html": "Taxes and <a href=\"{{ link }}\">shipping</a> calculated at checkout",
+      "taxes_and_shipping_policy_at_checkout_html": "Taxes and <a href=\"{{ link }}\">shipping<\/a> calculated at checkout",
       "taxes_included_but_shipping_at_checkout": "Tax included and shipping calculated at checkout",
-      "taxes_included_and_shipping_policy_html": "Tax included. <a href=\"{{ link }}\">Shipping</a> calculated at checkout.",
+      "taxes_included_and_shipping_policy_html": "Tax included. <a href=\"{{ link }}\">Shipping<\/a> calculated at checkout.",
       "enter_discount_code": "Enter discount code here",
       "checkout": "Check out",
       "viewcart": "View Cart",
@@ -244,7 +245,7 @@
       "city": "City",
       "country": "Country",
       "province": "Province",
-      "zip": "Postal/Zip Code",
+      "zip": "Postal\/Zip Code",
       "phone": "Phone",
       "set_default": "Set as default address",
       "update": "Update Address",
@@ -380,7 +381,7 @@
         "regular_price": "Regular price",
         "sale_price": "Sale price",
         "unit_price": "Unit price",
-        "save_price_html": "Save <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Save <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Pre-order",
       "product_quantity": "Product quantity",
@@ -400,7 +401,7 @@
       "copy_link": "Copy link",
       "unit_price_label": "Unit price",
       "size_guide": "Size guide",
-      "save_html": "Save <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Save <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Recently viewed products",
       "select_options": "Select options",
       "sold": "Sold",
@@ -411,8 +412,8 @@
         "view_store_info": "View store information",
         "check_other_stores": "Check availability at other stores",
         "pick_up_available": "Pickup available",
-        "pick_up_available_at_html": "Pickup available at <span>{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Pickup currently unavailable at <span>{{ location_name }}</span>",
+        "pick_up_available_at_html": "Pickup available at <span>{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Pickup currently unavailable at <span>{{ location_name }}<\/span>",
         "unavailable": "Couldn't load pickup availability",
         "refresh": "Refresh"
       }

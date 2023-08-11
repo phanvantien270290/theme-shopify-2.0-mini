@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "まもなくオープン"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "店舗を検索",
       "placeholder": "製品検索",
@@ -51,7 +52,7 @@
         "other": "\"{{ count }}\" の {{ terms }} の結果が見つかりました。"
       },
       "no_results": "の結果なし",
-      "no_results_html": "別の検索語を試すか、<a href=\"/\">ホームページに戻ってください</a>。"
+      "no_results_html": "別の検索語を試すか、<a href=\"\/\">ホームページに戻ってください<\/a>。"
     },
     "newsletter_form": {
       "confirmation": "購読していただきありがとうございます"
@@ -128,9 +129,9 @@
       "drawer_coupon": "クーポン",
       "subtotal": "小計",
       "taxes_and_shipping_at_checkout": "チェックアウト時に計算された税金と送料",
-      "taxes_and_shipping_policy_at_checkout_html": "税金と<a href=\"{{ link }}\">チェックアウト</a>時に計算された送料",
+      "taxes_and_shipping_policy_at_checkout_html": "税金と<a href=\"{{ link }}\">チェックアウト<\/a>時に計算された送料",
       "taxes_included_but_shipping_at_checkout": "税込およびチェックアウト時に計算された送料",
-      "taxes_included_and_shipping_policy_html": "税込み。<a href=\"{{ link }}\">チェックアウト</a>時に計算された送料。",
+      "taxes_included_and_shipping_policy_html": "税込み。<a href=\"{{ link }}\">チェックアウト<\/a>時に計算された送料。",
       "enter_discount_code": "ここに割引コードを入力",
       "checkout": "チェックアウト",
       "viewcart": "カートを見る",
@@ -380,7 +381,7 @@
         "regular_price": "定価",
         "sale_price": "販売価格",
         "unit_price": "単価",
-        "save_price_html": "保存 <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "保存 <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "予約注文",
       "product_quantity": "製品数量",
@@ -400,7 +401,7 @@
       "copy_link": "リンクのコピー",
       "unit_price_label": "単価",
       "size_guide": "サイズガイド",
-      "save_html": "保存 <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "保存 <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "最近閲覧した製品",
       "select_options": "オプションの選択",
       "sold": "販売",
@@ -411,8 +412,8 @@
         "view_store_info": "店舗情報の表示",
         "check_other_stores": "他の店舗での空き状況を確認する",
         "pick_up_available": "ピックアップ可能",
-        "pick_up_available_at_html": "ピックアップはで利用可能 <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "ピックアップは現在で利用できません <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "ピックアップはで利用可能 <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "ピックアップは現在で利用できません <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "ピックアップの可用性を読み込めませんでした",
         "refresh": "リフレッシュ"
       }

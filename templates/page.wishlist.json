@@ -1,8 +1,9 @@
 {
-  "name": "Page wishlist",
   "sections": {
     "main": {
-      "type": "page-wishlist"
+      "type": "page-wishlist",
+      "settings": {
+      }
     }
   },
   "order": [

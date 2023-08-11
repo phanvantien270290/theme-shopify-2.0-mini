@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Откриване Скоро"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Търсете в нашия магазин",
       "placeholder": "Търсене на продукти",
@@ -51,7 +52,7 @@
         "other": "Намерени {{ count }} резултати за \"{{ terms }}\""
       },
       "no_results": "Няма резултат за",
-      "no_results_html": "Моля, опитайте с различна дума за търсене или се върнете към <a href=\"/\">начална страница</a>."
+      "no_results_html": "Моля, опитайте с различна дума за търсене или се върнете към <a href=\"\/\">начална страница<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Благодаря за абонирането"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Купон",
       "subtotal": "Междинна сума",
       "taxes_and_shipping_at_checkout": "Данъци и доставка, изчислени на касата",
-      "taxes_and_shipping_policy_at_checkout_html": "Данъци и <a href=\"{{ link }}\">шипинг</a>, изчислен на касата",
+      "taxes_and_shipping_policy_at_checkout_html": "Данъци и <a href=\"{{ link }}\">шипинг<\/a>, изчислен на касата",
       "taxes_included_but_shipping_at_checkout": "Включен данък и доставка, изчислен на касата",
-      "taxes_included_and_shipping_policy_html": "Включен данък. <a href=\"{{ link }}\">Шипинг</a>, изчислен на касата.",
+      "taxes_included_and_shipping_policy_html": "Включен данък. <a href=\"{{ link }}\">Шипинг<\/a>, изчислен на касата.",
       "enter_discount_code": "Въведете код за отстъпка тук",
       "checkout": "Излизам",
       "viewcart": "Преглед на количката",
@@ -380,7 +381,7 @@
         "regular_price": "Редовна цена",
         "sale_price": "Продажна цена",
         "unit_price": "Единична цена",
-        "save_price_html": "Записване на <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Записване на <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Предварителна поръчка",
       "product_quantity": "Количество продукт",
@@ -400,7 +401,7 @@
       "copy_link": "Копиране на връзка",
       "unit_price_label": "Единична цена",
       "size_guide": "Ръководство за размер",
-      "save_html": "Запазване на <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Запазване на <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Последно прегледани продукти",
       "select_options": "Избор на опции",
       "sold": "Продават",
@@ -411,8 +412,8 @@
         "view_store_info": "Преглед на информацията за магазина",
         "check_other_stores": "Проверка на наличността в други магазини",
         "pick_up_available": "Пикап на разположение",
-        "pick_up_available_at_html": "Пикап на разположение при <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Пикап в момента е недостъпен на <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Пикап на разположение при <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Пикап в момента е недостъпен на <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Не можа да се зареди наличността на взимане",
         "refresh": "Опреснявам"
       }

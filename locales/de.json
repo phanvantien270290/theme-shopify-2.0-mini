@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Eröffnung in Kürze"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Durchsuchen Sie unseren Shop",
       "placeholder": "Produkte suchen",
@@ -51,7 +52,7 @@
         "other": "{{ count }} Ergebnisse für \"{{ terms }}\" gefunden"
       },
       "no_results": "Kein Ergebnis für",
-      "no_results_html": "Bitte versuchen Sie es mit einem anderen Suchbegriff oder gehen Sie zurück zur <a href=\"/\">homepage</a>."
+      "no_results_html": "Bitte versuchen Sie es mit einem anderen Suchbegriff oder gehen Sie zurück zur <a href=\"\/\">homepage<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Vielen Dank für Ihr Abonnement"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Coupon",
       "subtotal": "Zwischensumme",
       "taxes_and_shipping_at_checkout": "Steuern und Versand an der Kasse berechnet",
-      "taxes_and_shipping_policy_at_checkout_html": "Steuern und <a href=\"{{ link }}\">Versand</a> berechnet an der Kasse",
+      "taxes_and_shipping_policy_at_checkout_html": "Steuern und <a href=\"{{ link }}\">Versand<\/a> berechnet an der Kasse",
       "taxes_included_but_shipping_at_checkout": "Steuern inbegriffen und Versand an der Kasse berechnet",
-      "taxes_included_and_shipping_policy_html": "inkl. MwSt. <a href=\"{{ link }}\">Versand</a> berechnet an der Kasse.",
+      "taxes_included_and_shipping_policy_html": "inkl. MwSt. <a href=\"{{ link }}\">Versand<\/a> berechnet an der Kasse.",
       "enter_discount_code": "Geben Sie hier den Rabattcode ein",
       "checkout": "Abreise",
       "viewcart": "Warenkorb ansehen",
@@ -380,7 +381,7 @@
         "regular_price": "Regulärer Preis",
         "sale_price": "Verkaufspreis",
         "unit_price": "Stückpreis",
-        "save_price_html": "Retten <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Retten <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Vorbestellung",
       "product_quantity": "Produktmenge",
@@ -400,7 +401,7 @@
       "copy_link": "Link kopieren",
       "unit_price_label": "Stückpreis",
       "size_guide": "Größentabelle",
-      "save_html": "Retten <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Retten <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Zuletzt angesehene Produkte",
       "select_options": "Optionen auswählen",
       "sold": "Verkauft",
@@ -411,8 +412,8 @@
         "view_store_info": "Anzeigen von Shop-Informationen",
         "check_other_stores": "Verfügbarkeit in anderen Geschäften prüfen",
         "pick_up_available": "Abholung möglich",
-        "pick_up_available_at_html": "Abholung möglich unter <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Abholung derzeit nicht möglich bei <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Abholung möglich unter <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Abholung derzeit nicht möglich bei <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Verfügbarkeit der Abholung konnte nicht geladen werden",
         "refresh": "Auffrischen"
       }

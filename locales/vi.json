@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Sắp khai trương"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Tìm kiếm cửa hàng của chúng tôi",
       "placeholder": "Tìm kiếm sản phẩm",
@@ -51,7 +52,7 @@
         "other": "Tìm thấy {{ count }} kết quả cho \"{{ terms }}\""
       },
       "no_results": "Không có kết quả cho",
-      "no_results_html": "Vui lòng thử một cụm từ tìm kiếm khác hoặc quay lại <a href=\"/\">trang chủ</a>."
+      "no_results_html": "Vui lòng thử một cụm từ tìm kiếm khác hoặc quay lại <a href=\"\/\">trang chủ<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Cảm ơn bạn đã đăng ký"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Phiếu",
       "subtotal": "Tổng phụ",
       "taxes_and_shipping_at_checkout": "Thuế và phí vận chuyển được tính khi thanh toán",
-      "taxes_and_shipping_policy_at_checkout_html": "Thuế và <a href=\"{{ link }}\">vận chuyển</a> tính khi thanh toán",
+      "taxes_and_shipping_policy_at_checkout_html": "Thuế và <a href=\"{{ link }}\">vận chuyển<\/a> tính khi thanh toán",
       "taxes_included_but_shipping_at_checkout": "Đã bao gồm thuế và phí vận chuyển được tính khi thanh toán",
-      "taxes_included_and_shipping_policy_html": "Đã bao gồm thuế. <a href=\"{{ link }}\">Vận chuyển</a> được tính khi thanh toán.",
+      "taxes_included_and_shipping_policy_html": "Đã bao gồm thuế. <a href=\"{{ link }}\">Vận chuyển<\/a> được tính khi thanh toán.",
       "enter_discount_code": "Nhập mã giảm giá tại đây",
       "checkout": "Kiểm tra lại",
       "viewcart": "Xem giỏ hàng",
@@ -244,7 +245,7 @@
       "city": "Thành phố",
       "country": "Quốc gia",
       "province": "Tỉnh",
-      "zip": "Mã bưu chính/Zip",
+      "zip": "Mã bưu chính\/Zip",
       "phone": "Điện thoại",
       "set_default": "Đặt làm địa chỉ mặc định",
       "update": "Cập nhật địa chỉ",
@@ -380,7 +381,7 @@
         "regular_price": "Giá thông thường",
         "sale_price": "Giá bán",
         "unit_price": "Đơn giá",
-        "save_price_html": "Lưu <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Lưu <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Đặt hàng trước",
       "product_quantity": "Số lượng sản phẩm",
@@ -400,7 +401,7 @@
       "copy_link": "Sao chép liên kết",
       "unit_price_label": "Đơn giá",
       "size_guide": "Hướng dẫn kích thước",
-      "save_html": "Tiết kiệm <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Tiết kiệm <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Sản phẩm được xem gần đây",
       "select_options": "Chọn các tùy chọn",
       "sold": "Bán",
@@ -411,8 +412,8 @@
         "view_store_info": "Xem thông tin cửa hàng",
         "check_other_stores": "Kiểm tra tình trạng còn hàng tại các cửa hàng khác",
         "pick_up_available": "Có thể lấy hàng",
-        "pick_up_available_at_html": "Có thể lấy hàng tại <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Hiện không thể lấy hàng tại <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Có thể lấy hàng tại <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Hiện không thể lấy hàng tại <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Không thể tải tình trạng còn hàng để lấy hàng",
         "refresh": "Làm mới"
       }

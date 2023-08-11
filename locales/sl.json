@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Kmalu odprtje"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Preiščite našo trgovino",
       "placeholder": "Išči izdelke",
@@ -51,7 +52,7 @@
         "other": "Najdeni rezultati {{ count }} za \"{{ terms }}\""
       },
       "no_results": "Noben rezultat za",
-      "no_results_html": "Poskusite z drugim iskalnim izrazom ali pa se vrnite na <a href=\"/\">domača stran</a>."
+      "no_results_html": "Poskusite z drugim iskalnim izrazom ali pa se vrnite na <a href=\"\/\">domača stran<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Hvala za predajo"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Kupon",
       "subtotal": "Seštevek",
       "taxes_and_shipping_at_checkout": "Davki in dostava, izračunani ob odjavah",
-      "taxes_and_shipping_policy_at_checkout_html": "Davki in <a href=\"{{ link }}\">ladijski promet</a> izračunana ob odjavah",
+      "taxes_and_shipping_policy_at_checkout_html": "Davki in <a href=\"{{ link }}\">ladijski promet<\/a> izračunana ob odjavah",
       "taxes_included_but_shipping_at_checkout": "Vključen davek in dostava, izračunana na odjavo",
-      "taxes_included_and_shipping_policy_html": "Vključen davek. <a href=\"{{ link }}\">Ladijski promet</a> izračunan ob odjavah.",
+      "taxes_included_and_shipping_policy_html": "Vključen davek. <a href=\"{{ link }}\">Ladijski promet<\/a> izračunan ob odjavah.",
       "enter_discount_code": "Tukaj vnesite kodo za popust",
       "checkout": "Preveri",
       "viewcart": "Ogled košarice",
@@ -244,7 +245,7 @@
       "city": "Mesto",
       "country": "Država",
       "province": "Provinca",
-      "zip": "Poštna/poštna številka",
+      "zip": "Poštna\/poštna številka",
       "phone": "Telefon",
       "set_default": "Nastavi kot privzeti naslov",
       "update": "Naslov posodobitve",
@@ -380,7 +381,7 @@
         "regular_price": "Redna cena",
         "sale_price": "Prodajna cena",
         "unit_price": "Cena na enoto",
-        "save_price_html": "Shranite <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Shranite <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Prednaročanje",
       "product_quantity": "Količina izdelka",
@@ -400,7 +401,7 @@
       "copy_link": "Kopiraj povezavo",
       "unit_price_label": "Cena na enoto",
       "size_guide": "Navodila za velikost",
-      "save_html": "Shrani <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Shrani <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Pred kratkim ogledani izdelki",
       "select_options": "Izberite možnosti",
       "sold": "Prodajajo",
@@ -411,8 +412,8 @@
         "view_store_info": "Ogled informacij o shrambe",
         "check_other_stores": "Preverite razpoložljivost v drugih trgovinah",
         "pick_up_available": "Prevzem na voljo",
-        "pick_up_available_at_html": "Prevzem je na voljo na <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Prevzem trenutno ni na voljo pri <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Prevzem je na voljo na <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Prevzem trenutno ni na voljo pri <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Razpoložljivosti prevzema ni bilo mogoče naložiti",
         "refresh": "Osvežiti"
       }

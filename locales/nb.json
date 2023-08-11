@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Åpner snart"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Søk i butikken vår",
       "placeholder": "Søk etter produkter",
@@ -51,7 +52,7 @@
         "other": "Fant {{ count }}-resultater for {{ terms }}"
       },
       "no_results": "Ingen resultater for",
-      "no_results_html": "Prøv et annet søkeord, eller gå tilbake til <a href=\"/\">hjemmeside</a>."
+      "no_results_html": "Prøv et annet søkeord, eller gå tilbake til <a href=\"\/\">hjemmeside<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Takk for at du abonnerer"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Kupong",
       "subtotal": "Delsum",
       "taxes_and_shipping_at_checkout": "Avgifter og frakt beregnet i kassen",
-      "taxes_and_shipping_policy_at_checkout_html": "Avgifter og <a href=\"{{ link }}\">skip</a> beregnet i kassen",
+      "taxes_and_shipping_policy_at_checkout_html": "Avgifter og <a href=\"{{ link }}\">skip<\/a> beregnet i kassen",
       "taxes_included_but_shipping_at_checkout": "Inkludert skatt og frakt beregnet i kassen",
-      "taxes_included_and_shipping_policy_html": "Skatt inkludert. <a href=\"{{ link }}\">Avsende</a> beregnet i kassen.",
+      "taxes_included_and_shipping_policy_html": "Skatt inkludert. <a href=\"{{ link }}\">Avsende<\/a> beregnet i kassen.",
       "enter_discount_code": "Angi rabattkode her",
       "checkout": "Sjekk ut",
       "viewcart": "Vis handlekurv",
@@ -380,7 +381,7 @@
         "regular_price": "Vanlig pris",
         "sale_price": "Salgspris",
         "unit_price": "Enhetspris",
-        "save_price_html": "Lagre <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Lagre <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Forhåndsbestilling",
       "product_quantity": "Produktantall",
@@ -400,7 +401,7 @@
       "copy_link": "Kopier kobling",
       "unit_price_label": "Enhetspris",
       "size_guide": "Støttelinje for størrelse",
-      "save_html": "Lagre <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Lagre <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Nylig viste produkter",
       "select_options": "Velg alternativer",
       "sold": "Solgt",
@@ -411,8 +412,8 @@
         "view_store_info": "Vis butikkinformasjon",
         "check_other_stores": "Sjekk tilgjengeligheten i andre butikker",
         "pick_up_available": "Henting tilgjengelig",
-        "pick_up_available_at_html": "Henting tilgjengelig på <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Henting er for øyeblikket utilgjengelig på <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Henting tilgjengelig på <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Henting er for øyeblikket utilgjengelig på <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Kan ikke laste inn hentetilgjengelighet",
         "refresh": "Forfriske"
       }

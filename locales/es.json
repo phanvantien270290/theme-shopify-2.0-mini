@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Apertura pronto"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Busca en nuestra tienda",
       "placeholder": "Buscar productos",
@@ -51,7 +52,7 @@
         "other": "Se han encontrado los resultados de {{ count }} para \"{{ terms }}\""
       },
       "no_results": "Sin resultado para",
-      "no_results_html": "Pruebe con otro término de búsqueda o vuelva a la página de inicio de <a href=\"/\">página principal</a>."
+      "no_results_html": "Pruebe con otro término de búsqueda o vuelva a la página de inicio de <a href=\"\/\">página principal<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Gracias por suscribirse"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Cupón",
       "subtotal": "Subtotal",
       "taxes_and_shipping_at_checkout": "Impuestos y envío calculados al finalizar la compra",
-      "taxes_and_shipping_policy_at_checkout_html": "Impuestos y <a href=\"{{ link }}\">envío</a> calculado al finalizar la compra",
+      "taxes_and_shipping_policy_at_checkout_html": "Impuestos y <a href=\"{{ link }}\">envío<\/a> calculado al finalizar la compra",
       "taxes_included_but_shipping_at_checkout": "Impuestos incluidos y envío calculado al finalizar la compra",
-      "taxes_included_and_shipping_policy_html": "Impuestos incluidos. <a href=\"{{ link }}\">envío</a> calculado al finalizar la compra.",
+      "taxes_included_and_shipping_policy_html": "Impuestos incluidos. <a href=\"{{ link }}\">envío<\/a> calculado al finalizar la compra.",
       "enter_discount_code": "Ingrese el código de descuento aquí",
       "checkout": "Check-out",
       "viewcart": "Ver carrito",
@@ -380,7 +381,7 @@
         "regular_price": "Precio regular",
         "sale_price": "Precio de venta",
         "unit_price": "Precio por unidad",
-        "save_price_html": "Guardar <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Guardar <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Pre-ordenar",
       "product_quantity": "Cantidad de producto",
@@ -400,7 +401,7 @@
       "copy_link": "Copiar enlace",
       "unit_price_label": "Precio por unidad",
       "size_guide": "Guía de tallas",
-      "save_html": "Salvar <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Salvar <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Productos vistos recientemente",
       "select_options": "Seleccionar opciones",
       "sold": "Vendido",
@@ -411,8 +412,8 @@
         "view_store_info": "Ver información de la tienda",
         "check_other_stores": "Consultar disponibilidad en otras tiendas",
         "pick_up_available": "Recogida disponible",
-        "pick_up_available_at_html": "Recogida disponible en <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Recogida actualmente no disponible en <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Recogida disponible en <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Recogida actualmente no disponible en <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "No se pudo cargar la disponibilidad de recogida",
         "refresh": "Actualizar"
       }

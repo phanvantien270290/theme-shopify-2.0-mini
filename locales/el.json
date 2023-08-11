@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Εγκαίνια σύντομα"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Αναζητήστε το κατάστημά μας",
       "placeholder": "Αναζήτηση προϊόντων",
@@ -51,7 +52,7 @@
         "other": "Βρέθηκαν {{ count }} αποτελέσματα για το \"{{ terms }}\""
       },
       "no_results": "Κανένα αποτέλεσμα για",
-      "no_results_html": "Δοκιμάστε έναν διαφορετικό όρο αναζήτησης ή επιστρέψτε στο <a href=\"/\">αρχική σελίδα</a>."
+      "no_results_html": "Δοκιμάστε έναν διαφορετικό όρο αναζήτησης ή επιστρέψτε στο <a href=\"\/\">αρχική σελίδα<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Ευχαριστούμε για την εγγραφή σας"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Απόκομμα",
       "subtotal": "Μερικό άθροισμα",
       "taxes_and_shipping_at_checkout": "Φόροι και αποστολή που υπολογίζονται κατά την ολοκλήρωση της αγοράς",
-      "taxes_and_shipping_policy_at_checkout_html": "Φόροι και <a href=\"{{ link }}\">ναυτιλία</a> υπολογίζεται κατά την ολοκλήρωση της αγοράς",
+      "taxes_and_shipping_policy_at_checkout_html": "Φόροι και <a href=\"{{ link }}\">ναυτιλία<\/a> υπολογίζεται κατά την ολοκλήρωση της αγοράς",
       "taxes_included_but_shipping_at_checkout": "Περιλαμβάνεται φόρος και η αποστολή υπολογίζεται κατά την ολοκλήρωση της αγοράς",
-      "taxes_included_and_shipping_policy_html": "Με ΦΠΑ. <a href=\"{{ link }}\">ναυτιλία</a> που υπολογίζεται κατά την ολοκλήρωση της αγοράς.",
+      "taxes_included_and_shipping_policy_html": "Με ΦΠΑ. <a href=\"{{ link }}\">ναυτιλία<\/a> που υπολογίζεται κατά την ολοκλήρωση της αγοράς.",
       "enter_discount_code": "Εισάγετε τον κωδικό έκπτωσης εδώ",
       "checkout": "Δες",
       "viewcart": "Προβολή καλαθιού",
@@ -244,7 +245,7 @@
       "city": "Πόλη",
       "country": "Χώρα",
       "province": "Επαρχία",
-      "zip": "Ταχυδρομικός/Ταχυδρομικός Κώδικας",
+      "zip": "Ταχυδρομικός\/Ταχυδρομικός Κώδικας",
       "phone": "Τηλέφωνο",
       "set_default": "Ορισμός ως προεπιλεγμένης διεύθυνσης",
       "update": "Ενημέρωση διεύθυνσης",
@@ -380,7 +381,7 @@
         "regular_price": "Κανονική τιμή",
         "sale_price": "Τιμή πώλησης",
         "unit_price": "Τιμή μονάδας",
-        "save_price_html": "Αποθηκεύστε <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Αποθηκεύστε <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Προπαραγγελία",
       "product_quantity": "Ποσότητα προϊόντος",
@@ -400,7 +401,7 @@
       "copy_link": "Αντιγραφή συνδέσμου",
       "unit_price_label": "Τιμή μονάδας",
       "size_guide": "Οδηγός μεγεθών",
-      "save_html": "Αποθήκευση <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Αποθήκευση <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Προϊόντα που προβλήθηκαν πρόσφατα",
       "select_options": "Ορίστε επιλογές",
       "sold": "Πουλήθηκε",
@@ -411,8 +412,8 @@
         "view_store_info": "Προβολή πληροφοριών καταστήματος",
         "check_other_stores": "Έλεγχος διαθεσιμότητας σε άλλα καταστήματα",
         "pick_up_available": "Διαθέσιμη παραλαβή",
-        "pick_up_available_at_html": "Η παραλαβή είναι διαθέσιμη στη διεύθυνση <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Η παραλαβή προς το παρόν δεν είναι διαθέσιμη στο <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Η παραλαβή είναι διαθέσιμη στη διεύθυνση <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Η παραλαβή προς το παρόν δεν είναι διαθέσιμη στο <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Δεν ήταν δυνατή η φόρτωση της διαθεσιμότητας παραλαβής",
         "refresh": "Δροσίζω"
       }

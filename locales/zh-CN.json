@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "即将开业"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "搜索我们的商店",
       "placeholder": "产品搜索",
@@ -51,7 +52,7 @@
         "other": "找到 {{ count }} 结果的 “{{ terms }}”"
       },
       "no_results": "没有结果",
-      "no_results_html": "请尝试其他搜索词或返回 <a href=\"/\">主页</a>。"
+      "no_results_html": "请尝试其他搜索词或返回 <a href=\"\/\">主页<\/a>。"
     },
     "newsletter_form": {
       "confirmation": "感谢您的订阅"
@@ -128,9 +129,9 @@
       "drawer_coupon": "息票",
       "subtotal": "小计",
       "taxes_and_shipping_at_checkout": "结账时计算的税费和运费",
-      "taxes_and_shipping_policy_at_checkout_html": "税费和 <a href=\"{{ link }}\">航运</a>发货时计算",
+      "taxes_and_shipping_policy_at_checkout_html": "税费和 <a href=\"{{ link }}\">航运<\/a>发货时计算",
       "taxes_included_but_shipping_at_checkout": "含税，结账时计算运费",
-      "taxes_included_and_shipping_policy_html": "含税。<a href=\"{{ link }}\">航运</a> 在结账时计算。",
+      "taxes_included_and_shipping_policy_html": "含税。<a href=\"{{ link }}\">航运<\/a> 在结账时计算。",
       "enter_discount_code": "在此输入折扣代码",
       "checkout": "退房",
       "viewcart": "查看购物车",
@@ -380,7 +381,7 @@
         "regular_price": "正常价格",
         "sale_price": "销售价格",
         "unit_price": "单价",
-        "save_price_html": "保存 <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "保存 <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "预购",
       "product_quantity": "产品数量",
@@ -400,7 +401,7 @@
       "copy_link": "复制链接",
       "unit_price_label": "单价",
       "size_guide": "尺码指南",
-      "save_html": "保存 <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "保存 <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "最近浏览的产品",
       "select_options": "选择选项",
       "sold": "出售",
@@ -411,8 +412,8 @@
         "view_store_info": "查看店铺信息",
         "check_other_stores": "查看其他商店的供货情况",
         "pick_up_available": "提供接送服务",
-        "pick_up_available_at_html": "皮卡可在 <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "皮卡目前在以下位置不可用 <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "皮卡可在 <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "皮卡目前在以下位置不可用 <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "无法加载取件可用性",
         "refresh": "刷新"
       }

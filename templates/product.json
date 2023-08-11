@@ -1,12 +1,12 @@
 {
   "sections": {
     "breadcrumb": {
-      "type": "breadcrumb"
+      "type": "breadcrumb",
+      "settings": {
+      }
     },
     "main": {
       "type": "main-product",
-      "settings": {
-      },
       "blocks": {
         "title": {
           "type": "title",
@@ -38,10 +38,11 @@
         "title",
         "price",
         "variant_picker",
-        "quantity_selector",
         "buy_buttons",
         "addons"
-      ]
+      ],
+      "settings": {
+      }
     },
     "product-details-tabs": {
       "type": "product-details-tabs",
@@ -56,7 +57,7 @@
           "type": "tab",
           "settings": {
             "header": "Shipping & Return",
-            "content": "<p>Shipping cost is based on weight. Just add products to your cart and use the Shipping Calculator to see the shipping price.</p><p>We want you to be 100% satisfied with your purchase. Items can be returned or exchanged within 30 days of delivery.</p>"
+            "content": "<p>Shipping cost is based on weight. Just add products to your cart and use the Shipping Calculator to see the shipping price.<\/p><p>We want you to be 100% satisfied with your purchase. Items can be returned or exchanged within 30 days of delivery.<\/p>"
           }
         }
       },
@@ -65,7 +66,6 @@
         "tab"
       ],
       "settings": {
-        "show_product_tabs": true,
         "container": "container",
         "bg_color": ""
       }

@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Atidarymas netrukus"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Ieškokite mūsų parduotuvėje",
       "placeholder": "Ieškoti produktų",
@@ -51,7 +52,7 @@
         "other": "Rasta {{ count }} rezultatų \"{{ terms }}\""
       },
       "no_results": "Jokio rezultato",
-      "no_results_html": "Išbandykite kitą paieškos terminą arba grįžkite į <a href=\"/\">pagrindinis puslapis</a>."
+      "no_results_html": "Išbandykite kitą paieškos terminą arba grįžkite į <a href=\"\/\">pagrindinis puslapis<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Dėkojame, kad užsiprenumeravote"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Coupon",
       "subtotal": "Tarpinė suma",
       "taxes_and_shipping_at_checkout": "Mokesčiai ir siuntimas, apskaičiuoti atsiskaitant",
-      "taxes_and_shipping_policy_at_checkout_html": "Mokesčiai ir <a href=\"{{ link }}\">apskaičiuotas</a> kasoje",
+      "taxes_and_shipping_policy_at_checkout_html": "Mokesčiai ir <a href=\"{{ link }}\">apskaičiuotas<\/a> kasoje",
       "taxes_included_but_shipping_at_checkout": "Įskaičiuoti mokesčiai ir pristatymas, apskaičiuotas atsiskaitant",
-      "taxes_included_and_shipping_policy_html": "Įskaičiuotas mokestis. <a href=\"{{ link }}\">apskaičiuotas</a> kasoje.",
+      "taxes_included_and_shipping_policy_html": "Įskaičiuotas mokestis. <a href=\"{{ link }}\">apskaičiuotas<\/a> kasoje.",
       "enter_discount_code": "Čia įveskite nuolaidos kodą",
       "checkout": "Patikrinti, patikrink",
       "viewcart": "Peržiūrėti krepšelį",
@@ -244,7 +245,7 @@
       "city": "Miestas",
       "country": "Kraštas",
       "province": "Provincija",
-      "zip": "Pašto / pašto kodas",
+      "zip": "Pašto \/ pašto kodas",
       "phone": "Telefonas",
       "set_default": "Nustatykite kaip numatytąjį adresą",
       "update": "Atnaujinti adresą",
@@ -380,7 +381,7 @@
         "regular_price": "Reguliari kaina",
         "sale_price": "Pardavimo kaina",
         "unit_price": "Vieneto kaina",
-        "save_price_html": "Išsaugoti <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Išsaugoti <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Išankstinis užsakymas",
       "product_quantity": "Produkto kiekis",
@@ -400,7 +401,7 @@
       "copy_link": "Kopijavimo nuoroda",
       "unit_price_label": "Vieneto kaina",
       "size_guide": "Dydžio vadovas",
-      "save_html": "Išsaugoti <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Išsaugoti <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Neseniai peržiūrėti produktai",
       "select_options": "Pasirinkite parinktis",
       "sold": "Parduodami",
@@ -411,8 +412,8 @@
         "view_store_info": "Parduotuvės informacijos peržiūra",
         "check_other_stores": "Patikrinkite prieinamumą kitose parduotuvėse",
         "pick_up_available": "Galima atsiimti",
-        "pick_up_available_at_html": "Atsiėmimą galima įsigyti <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Paėmimas šiuo metu nepasiekiamas <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Atsiėmimą galima įsigyti <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Paėmimas šiuo metu nepasiekiamas <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Nepavyko pakrauti pikapo prieinamumo",
         "refresh": "Atnaujinti"
       }

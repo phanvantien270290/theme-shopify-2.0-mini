@@ -4,8 +4,8 @@
     "theme_name": "Minimog - OS 2.0",
     "theme_version": "3.3.0",
     "theme_author": "FOXECOM",
-    "theme_documentation_url": "https://docs.minimog.co/",
-    "theme_support_url": "https://minimog.co"
+    "theme_documentation_url": "https:\/\/docs.minimog.co\/",
+    "theme_support_url": "https:\/\/minimog.co"
   },
   {
     "name": "General Settings",
@@ -61,7 +61,7 @@
         "id": "language_support_rtl",
         "label": "Languages support RTL",
         "default": "he,ar",
-        "info": "Enter ISO language code, separate by comma. Leave blank to enable for all languages. [Check ISO language code](https://www.loc.gov/standards/iso639-2/php/code_list.php)"
+        "info": "Enter ISO language code, separate by comma. Leave blank to enable for all languages. [Check ISO language code](https:\/\/www.loc.gov\/standards\/iso639-2\/php\/code_list.php)"
       }
     ]
   },
@@ -608,7 +608,7 @@
         "id": "custom_body_font",
         "type": "textarea",
         "label": "Font URL",
-        "placeholder": "https://cdn.shopify.com/s/files/1/0075/1288/3285/files/roboto.woff2@400",
+        "placeholder": "https:\/\/cdn.shopify.com\/s\/files\/1\/0075\/1288\/3285\/files\/roboto.woff2@400",
         "info": "Format: Link_to_font@font_weight"
       },
       {
@@ -763,13 +763,13 @@
       },
       {
         "type": "paragraph",
-        "content": "Allow multiple links, each link in a new line. Please upload to [Shopify files](/admin/settings/files) and paste link here. These formats TTF, OTF, WOFF & WOFF2 are supported."
+        "content": "Allow multiple links, each link in a new line. Please upload to [Shopify files](\/admin\/settings\/files) and paste link here. These formats TTF, OTF, WOFF & WOFF2 are supported."
       },
       {
         "id": "custom_heading_font",
         "type": "textarea",
         "label": "Font file URLS",
-        "placeholder": "https://cdn.shopify.com/s/files/1/0075/1288/3285/files/roboto.woff2@400",
+        "placeholder": "https:\/\/cdn.shopify.com\/s\/files\/1\/0075\/1288\/3285\/files\/roboto.woff2@400",
         "info": "Format: Link_to_font@font_weight"
       },
       {
@@ -1047,19 +1047,19 @@
             "label": "Adapt to image"
           },
           {
-            "value": "1/1",
+            "value": "1\/1",
             "label": "1:1"
           },
           {
-            "value": "3/4",
+            "value": "3\/4",
             "label": "3:4"
           },
           {
-            "value": "4/3",
+            "value": "4\/3",
             "label": "4:3"
           },
           {
-            "value": "16/9",
+            "value": "16\/9",
             "label": "16:9"
           }
         ]
@@ -1222,7 +1222,7 @@
         "type": "checkbox",
         "id": "show_badge_sale",
         "label": "Show custom tag badges",
-        "info": "How to set up custom product tags? [See how](https://docs.minimog.co/collections-and-products/product-page/product-tag).",
+        "info": "How to set up custom product tags? [See how](https:\/\/docs.minimog.co\/collections-and-products\/product-page\/product-tag).",
         "default": false
       },
       {
@@ -1547,7 +1547,7 @@
         "id": "product_colors",
         "label": "Custom colors",
         "default": "red: #ff0000,\r\nyellow: #ffff00,\r\nblack: #000000,\r\nblue: #0000FF,\r\ngreen: #00ff00,\r\npurple: #800080,\r\nsilver: #c0c0c0,\r\nwhite: #ffffff,\r\nbrown: #7B3F00,\r\nlight-brown: #feb035,\r\ndark-turquoise: #23cddc,\r\norange: #fe9001,\r\ntan: #eacea7,\r\nviolet: #EE82EE,\r\npink: #FFC0CB,\r\ngrey: #808080",
-        "info": "Use Hex color code, see more [Hex color](https://www.color-hex.com/)"
+        "info": "Use Hex color code, see more [Hex color](https:\/\/www.color-hex.com\/)"
       },
       {
         "type": "header",
@@ -2063,26 +2063,26 @@
         "type": "select",
         "id": "article_image_aspect_ratio",
         "label": "Image aspect ratio",
-        "default": "16/9",
+        "default": "16\/9",
         "options": [
           {
             "value": "original",
             "label": "Adapt to image"
           },
           {
-            "value": "1/1",
+            "value": "1\/1",
             "label": "1:1"
           },
           {
-            "value": "3/4",
+            "value": "3\/4",
             "label": "3:4"
           },
           {
-            "value": "4/3",
+            "value": "4\/3",
             "label": "4:3"
           },
           {
-            "value": "16/9",
+            "value": "16\/9",
             "label": "16:9"
           }
         ]
@@ -2380,7 +2380,7 @@
         "id": "default_country_estimate_shipping",
         "label": "Default country for estimate shipping",
         "default": "US",
-        "info": "Enter country code, for example: United States = US. Refer to the country code [here](https://shopify.dev/api/storefront/reference/common-objects/countrycode)"
+        "info": "Enter country code, for example: United States = US. Refer to the country code [here](https:\/\/shopify.dev\/api\/storefront\/reference\/common-objects\/countrycode)"
       },
       {
         "type": "image_picker",
@@ -2397,7 +2397,7 @@
         "id": "enable_predictive_search",
         "label": "Enable predictive search",
         "default": true,
-        "info": "Enable predictive search so that suggested results appear immediately as you type into the search field. [Learn more](https://shopify.dev/themes/navigation-search/search/predictive-search)"
+        "info": "Enable predictive search so that suggested results appear immediately as you type into the search field. [Learn more](https:\/\/shopify.dev\/themes\/navigation-search\/search\/predictive-search)"
       },
       {
         "type": "checkbox",
@@ -2541,7 +2541,7 @@
         "id": "cookie_consent_learnmore_link",
         "label": "Learn more link",
         "info": "Leave blank to hide",
-        "default": "https://www.cookiesandyou.com/"
+        "default": "https:\/\/www.cookiesandyou.com\/"
       },
       {
         "type": "header",
@@ -2596,7 +2596,7 @@
         "type": "text",
         "id": "gm_api",
         "label": "API Key",
-        "info": "[Get Api Key](https://help.shopify.com/en/manual/online-store/themes/themes-by-shopify/vintage-themes/customizing-vintage-themes/map-section-api-key)"
+        "info": "[Get Api Key](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/themes-by-shopify\/vintage-themes\/customizing-vintage-themes\/map-section-api-key)"
       },
       {
         "type": "header",
@@ -2607,7 +2607,7 @@
         "id": "instagram_token",
         "label": "Instagram Token",
         "default": "IGQVJXMTBwYTBabmJsdG9xZA0p2Q3RsLWhYc0RvSFI1cDZA6aG1jWEt5M3VpYVNWdV9tVmIweHF6UHBjNWxvVk1sUFQ4T0NJSHFuWksyVGVzTTB3RkozdGszeDJIbVU3MmVycTJzS1E5VGpZAX0dvVUE0RwZDZD",
-        "info": "[Get Instagram token](https://docs.minimog.co/theme-sections/instagram)"
+        "info": "[Get Instagram token](https:\/\/docs.minimog.co\/theme-sections\/instagram)"
       }
     ]
   },
@@ -2633,7 +2633,7 @@
         "id": "review_app",
         "label": "Product reviews app",
         "default": "shopify",
-        "info": "Select your preferred app. If you are using another app, please put the snippet code of the app to file: snippets/other-review-app-snippet.liquid or contact us for help.",
+        "info": "Select your preferred app. If you are using another app, please put the snippet code of the app to file: snippets\/other-review-app-snippet.liquid or contact us for help.",
         "options": [
           {
             "value": "shopify",

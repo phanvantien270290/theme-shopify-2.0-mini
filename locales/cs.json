@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Již brzy otevřeno"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Prohledejte náš obchod",
       "placeholder": "Vyhledat produkty",
@@ -51,7 +52,7 @@
         "other": "Nalezené {{ count }} výsledky pro \"{{ terms }}\""
       },
       "no_results": "Žádný výsledek pro",
-      "no_results_html": "Zkuste jiný hledaný výraz nebo se vraťte na <a href=\"/\">domovská stránka</a>."
+      "no_results_html": "Zkuste jiný hledaný výraz nebo se vraťte na <a href=\"\/\">domovská stránka<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Děkujeme za přihlášení k odběru"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Kupon",
       "subtotal": "Mezisoučet",
       "taxes_and_shipping_at_checkout": "Daně a doprava vypočítané při pokladně",
-      "taxes_and_shipping_policy_at_checkout_html": "Daně a <a href=\"{{ link }}\">doprava</a> vypočtený při pokladně",
+      "taxes_and_shipping_policy_at_checkout_html": "Daně a <a href=\"{{ link }}\">doprava<\/a> vypočtený při pokladně",
       "taxes_included_but_shipping_at_checkout": "Včetně daně a dopravy vypočtené při pokladně",
-      "taxes_included_and_shipping_policy_html": "Včetně daně. <a href=\"{{ link }}\">Doprava</a> vypočteno při pokladně.",
+      "taxes_included_and_shipping_policy_html": "Včetně daně. <a href=\"{{ link }}\">Doprava<\/a> vypočteno při pokladně.",
       "enter_discount_code": "Zde zadejte slevový kód",
       "checkout": "Mrkni se",
       "viewcart": "Zobrazit košík",
@@ -380,7 +381,7 @@
         "regular_price": "Běžná cena",
         "sale_price": "Prodejní cena",
         "unit_price": "Jednotková cena",
-        "save_price_html": "Uložit <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Uložit <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Předobjednávka",
       "product_quantity": "Množství produktu",
@@ -400,7 +401,7 @@
       "copy_link": "Kopírovat odkaz",
       "unit_price_label": "Jednotková cena",
       "size_guide": "Průvodce velikostmi",
-      "save_html": "Uložit <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Uložit <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Nedávno zobrazené produkty",
       "select_options": "Výběr možností",
       "sold": "Prodal",
@@ -411,8 +412,8 @@
         "view_store_info": "Zobrazení informací o obchodě",
         "check_other_stores": "Ověřit dostupnost v jiných prodejnách",
         "pick_up_available": "Možnost vyzvednutí",
-        "pick_up_available_at_html": "Vyzvednutí k dispozici na adrese <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Vyzvednutí momentálně nedostupné na adrese <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Vyzvednutí k dispozici na adrese <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Vyzvednutí momentálně nedostupné na adrese <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Nelze načíst dostupnost vyzvednutí",
         "refresh": "Osvěžit"
       }

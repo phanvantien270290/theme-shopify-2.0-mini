@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "곧 개장"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "스토어 검색",
       "placeholder": "제품 검색",
@@ -51,7 +52,7 @@
         "other": "\"{{ terms }}\"에 대한 {{ count }} 결과를 찾았습니다."
       },
       "no_results": "에 대한 결과 없음",
-      "no_results_html": "다른 검색어를 시도하거나 <a href=\"/\">홈페이지로 돌아가십시오</a>."
+      "no_results_html": "다른 검색어를 시도하거나 <a href=\"\/\">홈페이지로 돌아가십시오<\/a>."
     },
     "newsletter_form": {
       "confirmation": "구독해 주셔서 감사합니다"
@@ -128,9 +129,9 @@
       "drawer_coupon": "쿠폰",
       "subtotal": "소계",
       "taxes_and_shipping_at_checkout": "결제 시 계산된 세금 및 배송료",
-      "taxes_and_shipping_policy_at_checkout_html": "세금 및 <a href=\"{{ link }}\">배송료</a> 결제 시 계산",
+      "taxes_and_shipping_policy_at_checkout_html": "세금 및 <a href=\"{{ link }}\">배송료<\/a> 결제 시 계산",
       "taxes_included_but_shipping_at_checkout": "세금 포함 및 결제 시 계산된 배송료",
-      "taxes_included_and_shipping_policy_html": "세금 포함. <a href=\"{{ link }}\">Shipping</a> 계산시 결제 시 계산.",
+      "taxes_included_and_shipping_policy_html": "세금 포함. <a href=\"{{ link }}\">Shipping<\/a> 계산시 결제 시 계산.",
       "enter_discount_code": "여기에 할인 코드를 입력하십시오.",
       "checkout": "체크 아웃",
       "viewcart": "장바구니 보기",
@@ -244,7 +245,7 @@
       "city": "도시",
       "country": "나라",
       "province": "주",
-      "zip": "우편/우편 번호",
+      "zip": "우편\/우편 번호",
       "phone": "전화",
       "set_default": "기본 주소로 설정",
       "update": "주소 업데이트",
@@ -380,7 +381,7 @@
         "regular_price": "정상 가격",
         "sale_price": "판매 가격",
         "unit_price": "단가",
-        "save_price_html": "저장 <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "저장 <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "사전 주문",
       "product_quantity": "제품 수량",
@@ -400,7 +401,7 @@
       "copy_link": "링크 복사",
       "unit_price_label": "단가",
       "size_guide": "크기 가이드",
-      "save_html": "저장 <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "저장 <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "최근에 본 제품",
       "select_options": "옵션 선택",
       "sold": "판매",
@@ -411,8 +412,8 @@
         "view_store_info": "매장 정보 보기",
         "check_other_stores": "다른 매장에서 예약 가능 여부 확인",
         "pick_up_available": "픽업 가능",
-        "pick_up_available_at_html": "픽업 가능 <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "픽업은 현재 사용할 수 없습니다 <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "픽업 가능 <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "픽업은 현재 사용할 수 없습니다 <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "픽업 가용성을 로드할 수 없습니다.",
         "refresh": "리프레쉬"
       }

@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Hamarosan megnyílik"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Keresés üzletünkben",
       "placeholder": "Termékek keresése",
@@ -51,7 +52,7 @@
         "other": "{{ count }} találatokat talált a \"{{ terms }}\""
       },
       "no_results": "Nincs eredmény a",
-      "no_results_html": "Próbáljon ki egy másik keresési kifejezést, vagy térjen vissza a <a href=\"/\">honlap</a>."
+      "no_results_html": "Próbáljon ki egy másik keresési kifejezést, vagy térjen vissza a <a href=\"\/\">honlap<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Köszönjük, hogy feliratkozott"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Kupon",
       "subtotal": "Részösszeg",
       "taxes_and_shipping_at_checkout": "Adók és szállítás fizetéskor számítva",
-      "taxes_and_shipping_policy_at_checkout_html": "Adók és <a href=\"{{ link }}\">szállítás</a> a pénztárnál számítva",
+      "taxes_and_shipping_policy_at_checkout_html": "Adók és <a href=\"{{ link }}\">szállítás<\/a> a pénztárnál számítva",
       "taxes_included_but_shipping_at_checkout": "Az adót tartalmazza és a szállítást a pénztárnál számítjuk ki",
-      "taxes_included_and_shipping_policy_html": "Az adót is tartalmazza. <a href=\"{{ link }}\">szállítás</a> pénztárnál kiszámított szállítás.",
+      "taxes_included_and_shipping_policy_html": "Az adót is tartalmazza. <a href=\"{{ link }}\">szállítás<\/a> pénztárnál kiszámított szállítás.",
       "enter_discount_code": "Itt adja meg a kedvezménykódot",
       "checkout": "Nézd meg",
       "viewcart": "Kosár megtekintése",
@@ -244,7 +245,7 @@
       "city": "Város",
       "country": "Ország",
       "province": "Tartomány",
-      "zip": "Postai/irányítószám",
+      "zip": "Postai\/irányítószám",
       "phone": "Telefon",
       "set_default": "Beállítás alapértelmezett címként",
       "update": "Frissítési cím",
@@ -380,7 +381,7 @@
         "regular_price": "Normál ár",
         "sale_price": "Eladási ár",
         "unit_price": "Egységár",
-        "save_price_html": "Megment <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Megment <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Előrendelés",
       "product_quantity": "Termékmennyiség",
@@ -400,7 +401,7 @@
       "copy_link": "Hivatkozás másolása",
       "unit_price_label": "Egységár",
       "size_guide": "Méret útmutató",
-      "save_html": "Megment <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Megment <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Legutóbb megtekintett termékek",
       "select_options": "Válassza ki a beállításokat",
       "sold": "Eladott",
@@ -411,8 +412,8 @@
         "view_store_info": "Áruházi információk megtekintése",
         "check_other_stores": "Ellenőrizze a rendelkezésre állást más üzletekben",
         "pick_up_available": "Átvételi lehetőség",
-        "pick_up_available_at_html": "Az átvétel a következő címen érhető el: <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Az átvétel jelenleg nem érhető el a következő címen: <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Az átvétel a következő címen érhető el: <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Az átvétel jelenleg nem érhető el a következő címen: <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Nem sikerült betölteni a felvétel elérhetőségét",
         "refresh": "Felfrissít"
       }

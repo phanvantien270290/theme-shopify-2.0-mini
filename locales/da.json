@@ -34,7 +34,8 @@
     "password_page": {
       "opening_soon": "Åbner snart"
     },
-    "social": {},
+    "social": {
+    },
     "search": {
       "title": "Søg i vores butik",
       "placeholder": "Søg efter produkter",
@@ -51,7 +52,7 @@
         "other": "Fandt {{ count }} resultater for \"{{ terms }}\""
       },
       "no_results": "Intet resultat for",
-      "no_results_html": "Prøv et andet søgeord, eller gå tilbage til <a href=\"/\">hjemmeside</a>."
+      "no_results_html": "Prøv et andet søgeord, eller gå tilbage til <a href=\"\/\">hjemmeside<\/a>."
     },
     "newsletter_form": {
       "confirmation": "Tak fordi du abonnerede"
@@ -128,9 +129,9 @@
       "drawer_coupon": "Kupon",
       "subtotal": "Subtotal",
       "taxes_and_shipping_at_checkout": "Skatter og forsendelse beregnet ved kassen",
-      "taxes_and_shipping_policy_at_checkout_html": "Skatter og <a href=\"{{ link }}\">skibsfart</a> beregnet ved kassen",
+      "taxes_and_shipping_policy_at_checkout_html": "Skatter og <a href=\"{{ link }}\">skibsfart<\/a> beregnet ved kassen",
       "taxes_included_but_shipping_at_checkout": "Skat inkluderet og forsendelse beregnet ved kassen",
-      "taxes_included_and_shipping_policy_html": "Skat inkluderet. <a href=\"{{ link }}\">Skibsfart</a> beregnet ved kassen.",
+      "taxes_included_and_shipping_policy_html": "Skat inkluderet. <a href=\"{{ link }}\">Skibsfart<\/a> beregnet ved kassen.",
       "enter_discount_code": "Indtast rabatkode her",
       "checkout": "Tjek ud",
       "viewcart": "Se indkøbskurv",
@@ -244,7 +245,7 @@
       "city": "By",
       "country": "Land",
       "province": "Provins",
-      "zip": "Postnummer/postnummer",
+      "zip": "Postnummer\/postnummer",
       "phone": "Telefon",
       "set_default": "Angiv som standardadresse",
       "update": "Opdater adresse",
@@ -380,7 +381,7 @@
         "regular_price": "Normalpris",
         "sale_price": "Udsalgspris",
         "unit_price": "Enhedspris",
-        "save_price_html": "Spar <span data-sale-value>{{ amount }}</span>"
+        "save_price_html": "Spar <span data-sale-value>{{ amount }}<\/span>"
       },
       "preorder": "Forudbestil",
       "product_quantity": "Produktmængde",
@@ -400,7 +401,7 @@
       "copy_link": "Kopier link",
       "unit_price_label": "Enhedspris",
       "size_guide": "Størrelsesguide",
-      "save_html": "Spar <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}</span>",
+      "save_html": "Spar <span class=\"sf-currency sf-currency--saved font-medium\" data-saved-price>{{ amount }}<\/span>",
       "recently_viewed_products": "Nyligt viste produkter",
       "select_options": "Vælg indstillinger",
       "sold": "Solgt",
@@ -411,8 +412,8 @@
         "view_store_info": "Se butiksoplysninger",
         "check_other_stores": "Tjek tilgængelighed i andre butikker",
         "pick_up_available": "Afhentning tilgængelig",
-        "pick_up_available_at_html": "Afhentning tilgængelig på <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Afhentning er i øjeblikket ikke tilgængelig på <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Afhentning tilgængelig på <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Afhentning er i øjeblikket ikke tilgængelig på <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Kunne ikke indlæse afhentning tilgængelighed",
         "refresh": "Opdatere"
       }
