@@ -1,19 +1,25 @@
 {
   "current": {
+    "favicon": "shopify:\/\/shop_images\/Favicon-05.svg",
     "container_width": 1200,
     "container_fluid_width": 1620,
     "container_fluid_offset": 65,
+    "spacing_sections": 105,
     "color_primary": "#000000",
     "color_main_bg": "#ffffff",
     "color_field_bg": "#ffffff",
-    "color_body_text": "#000000",
-    "color_heading_text": "#000000",
-    "color_sub_text": "#666666",
+    "color_body_text": "#1f1b1b",
+    "color_heading_text": "#1f1b1b",
+    "color_sub_text": "#ffffff",
+    "color_text_link": "#ffffff",
+    "color_text_link_hover": "#ffffff",
     "color_btn_bg_hover": "#000000",
-    "prod_sale_price_color": "#666666",
-    "prod_type_color": "#666666",
-    "color_annoucement_bg": "#da3f3f",
-    "color_topbar_bg": "#ffffff",
+    "color_btn_text_hover": "#221919",
+    "prod_sale_price_color": "#2a1414",
+    "prod_type_color": "#000000",
+    "color_annoucement_bg": "#4310ff",
+    "color_annoucement_text": "#ffffff",
+    "color_topbar_bg": "#000000",
     "color_topbar_text": "#000000",
     "color_header_bg": "#ffffff",
     "color_header_link": "#000000",
@@ -25,8 +31,8 @@
     "color_footer_text": "#000000",
     "color_footer_subtext": "#666666",
     "color_footer_link_hover": "#000000",
-    "color_footer_bottom_bg": "#f5f5f5",
-    "color_border": "#dedede",
+    "color_footer_bottom_bg": "#ffffff",
+    "color_border": "#000000",
     "img_overlay_opacity": 20,
     "tooltip_background_color": "#000000",
     "type_base_font": "roboto_condensed_n4",
@@ -39,9 +45,14 @@
     "custom_heading_weight": "400",
     "type_header_base_size": 40,
     "btn_weight": "500",
-    "pcard_layout": "1",
+    "pcard_layout": "2",
     "pcard_alignment": "left",
-    "pcard_image_ratio": "3\/4",
+    "pcard_image_ratio": "1\/1",
+    "show_swatch_option": false,
+    "pcard_option_design": "color",
+    "show_wishlist_button": false,
+    "show_compare_button": false,
+    "show_review_badge": true,
     "show_vendor": false,
     "variant_option_design1": "button",
     "variant_option_design2": "color",
@@ -56,20 +67,30 @@
     "share_pinterest": true,
     "social_twitter_link": "",
     "social_twitter_label": "",
-    "social_facebook_link": "https:\/\/facebook.com\/",
-    "social_facebook_label": "300k Followers",
+    "social_facebook_link": "https:\/\/www.facebook.com\/profile.php?id=61550501990781",
+    "social_facebook_label": "",
     "social_pinterest_link": "",
     "social_pinterest_label": "",
-    "social_instagram_link": "https:\/\/instagram.com\/",
-    "social_instagram_label": "100k Followers",
+    "social_instagram_link": "https:\/\/instagram.com\/moonlight.magik",
+    "social_instagram_label": "",
+    "cart_drawer_show_accelerated_button": false,
     "discount_code_enable": true,
+    "cart_estimate_shipping": false,
     "show_delivery_days": true,
+    "popular_search_queries": "Lamp, Blue, Jellyfish",
     "wishlist_page": "wishlist",
     "product_compare_page": "product-compare",
     "show_cookie_consent": false,
     "cookie_consent_placement": "bottom-left",
     "cookie_consent_theme": "white",
     "custom_css": ".sf-topbar {\n  border-color: #eee;\n}\n.sf__font-normal {\n  font-weight: 400;\n}\nbody .sf-footer__block .social-media-links {\n  gap: 12px;\n  margin: 0;\n  padding: 5px;\n  flex-wrap: wrap;\n}\n\nbody .sf-footer__block .social-media-links a {\n  color: #222;\n  width: 48px;\n  height: 48px;\n  padding: 0;\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n  border-radius: 50%;\n  background-color: #E9E9E9;\n  transition: all .3s;\n}\n\nbody .sf-footer__block .social-media-links a:hover {\n  background-color: #222;\n  color: #fff;\n  box-shadow: 0 0 0 0.2rem #222;\n}\n\n@media (min-width: 1536px) {\n  body .sf__footer-block-newsletter .sf__footer-block-title {\n    font-size: 42px;\n  }\n}",
+    "review_app": "ali_reviews",
+    "checkout_header_image": "shopify:\/\/shop_images\/aesthetic-dark-wallpaper-background-neon-light_1.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/LogoC-04.svg",
+    "checkout_logo_position": "center",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_accent_color": "#4310ff",
+    "checkout_button_color": "#4310ff",
     "enable_page_transition": true,
     "sections": {
       "header": {
@@ -77,8 +98,9 @@
         "blocks": {
           "5e153016-a9d7-46c9-a10e-30d16446793d": {
             "type": "topbar",
+            "disabled": true,
             "settings": {
-              "show_divider": true,
+              "show_divider": false,
               "show_phone_numb": false,
               "show_email": false,
               "show_social_links": true,
@@ -86,7 +108,7 @@
               "show_currency_switcher": true,
               "show_country_selector": false,
               "show_language_switcher": true,
-              "alert_message": "<span>Open Doors To A World Of Fashion  |  <a class=\"sf__text-link  ml-1 underline\" href=\"#\">Discover More<\/a><span><\/span><\/span>"
+              "alert_message": ""
             }
           },
           "5b9aec5f-b955-4765-9a87-1962d613e909": {
@@ -103,7 +125,6 @@
               "heading": "Shop",
               "container": "container-fluid",
               "banner_style": "outside",
-              "banner_image": "shopify:\/\/shop_images\/mega-menu-banner.jpg",
               "banner_link": "",
               "banner_title": "The New - Season Shoes Edit",
               "banner_desc": "",
@@ -142,23 +163,22 @@
           "container": "container-fluid",
           "header_sticky": true,
           "transparent_on_top": false,
-          "logo_text": "MINIMOG",
-          "logo": "shopify:\/\/shop_images\/3.png",
-          "logo_transparent": "shopify:\/\/shop_images\/logo_light.png",
+          "logo_text": "moonlit-magik",
+          "logo": "shopify:\/\/shop_images\/LogoC-04.svg",
           "logo_svg": "",
           "logo_mobile_svg": "",
           "logo_transparent_svg": "",
-          "logo_max_width": 145,
-          "sticky_logo_max_width": 145,
+          "logo_max_width": 160,
+          "sticky_logo_max_width": 165,
           "mobile_logo_max_width": 110,
           "main_menu": "main-menu",
           "secondary_menu": "",
           "mobile_menu": "",
           "uppercase_parent_level": false,
           "search": "show_icon",
-          "show_account_icon": true,
+          "show_account_icon": false,
           "show_cart_icon": true,
-          "show_wishlist_icon": true,
+          "show_wishlist_icon": false,
           "show_compare_icon": false,
           "show_currency_switcher": false,
           "show_country_selector": false,
@@ -168,31 +188,11 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "7b0bf4c6-3873-4222-b8d6-ce009e710078": {
-            "type": "newsletter",
-            "settings": {
-              "title": "Let’s get in touch",
-              "description": "Sign up for our newsletter and receive 10% off your",
-              "email_placeholder": "Enter your email",
-              "form_style": "bordered",
-              "show_social": false,
-              "show_agree_checkbox": false,
-              "width": "33%",
-              "order_first": true,
-              "open_default": true
-            }
-          },
-          "12ba5a79-51a6-413a-9802-6add59615034": {
-            "type": "spacing",
-            "settings": {
-              "width": "16%"
-            }
-          },
           "7ebc2f78-975b-4a81-b874-103c3355a866": {
             "type": "menu",
             "settings": {
-              "menu": "infomation",
-              "title": "",
+              "menu": "main-menu",
+              "title": "Navigation",
               "width": "25%",
               "order_first": false,
               "open_default": false
@@ -201,8 +201,8 @@
           "49e72833-c68f-4a7b-ab64-3ef0cae99bcb": {
             "type": "menu",
             "settings": {
-              "menu": "services",
-              "title": "Information",
+              "menu": "footer",
+              "title": "Need help?",
               "width": "25%",
               "order_first": false,
               "open_default": false
@@ -211,7 +211,7 @@
           "93571032-b171-4c66-8b3e-96cd91946363": {
             "type": "our_store",
             "settings": {
-              "title": "Our store",
+              "title": "Follow us on",
               "description": "",
               "show_email": false,
               "show_phone": false,
@@ -220,25 +220,38 @@
               "order_first": false,
               "open_default": false
             }
+          },
+          "7b0bf4c6-3873-4222-b8d6-ce009e710078": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Stay in the loop",
+              "description": "Join our newsletter to be the first to hear about our special offers. \nPlus - Get 10% off your first order!",
+              "email_placeholder": "Enter your email",
+              "form_style": "bordered",
+              "show_social": false,
+              "show_agree_checkbox": false,
+              "width": "33%",
+              "order_first": true,
+              "open_default": true
+            }
           }
         },
         "block_order": [
-          "7b0bf4c6-3873-4222-b8d6-ce009e710078",
-          "12ba5a79-51a6-413a-9802-6add59615034",
           "7ebc2f78-975b-4a81-b874-103c3355a866",
           "49e72833-c68f-4a7b-ab64-3ef0cae99bcb",
-          "93571032-b171-4c66-8b3e-96cd91946363"
+          "93571032-b171-4c66-8b3e-96cd91946363",
+          "7b0bf4c6-3873-4222-b8d6-ce009e710078"
         ],
         "settings": {
-          "design": "footer-1",
+          "design": "footer-3",
           "container": "container-fluid",
           "bordered": false,
-          "copyright": "© MINIMOG 2021",
+          "copyright": "© Moonlit Magik 2023",
           "show_country_selector": false,
           "show_currency_selector": false,
           "show_language_selector": false,
           "show_social_links": false,
-          "show_payment_icons": true,
+          "show_payment_icons": false,
           "payment_icons_width": 300
         }
       },
@@ -247,9 +260,9 @@
         "settings": {
           "show_announcement": true,
           "homepage_only": true,
-          "show_close": true,
-          "message": "<span class=\"font-medium\" style=\"font-size: 15px;\">Free Delivery on orders over £120. Don’t miss discount.<\/span>",
-          "message_link": "",
+          "show_close": false,
+          "message": "<span class=\"font-medium\" style=\"font-size: 15px;\">We Offer Free Shipping Worldwide<\/span>",
+          "message_link": "shopify:\/\/policies\/shipping-policy",
           "show_divider": false
         }
       },
@@ -268,7 +281,21 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "8924079168617604943": {
+        "type": "shopify:\/\/apps\/ali-reviews-product-reviews\/blocks\/widget-popup\/bf2eea72-0400-4db1-8908-44b7418f9a88",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "2912608901741945173": {
+        "type": "shopify:\/\/apps\/trueprofit-profit-analytics\/blocks\/truepixel\/711d36f9-ea83-4623-a720-e574b794560b",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {

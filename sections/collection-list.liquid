@@ -215,7 +215,7 @@
     data-container="{{ section.settings.container }}"
     style="background-color: {{ bg_color }};--section-padding-top: {{ section.settings.padding_top }}px; --section-padding-bottom: {{ section.settings.padding_bottom }}px;"
 >
-    <m-collection-list
+    {% comment %} <m-collection-list
       data-enable-slider="{{ enable_slider }}"
       {% if enable_slider %}
       data-gutter="{{ section.settings.item_gap }}"
@@ -239,7 +239,7 @@
               </div>
           {% endif %}
         </div>
-    </m-collection-list>
+    </m-collection-list> {% endcomment %}
 </section>
 
 {% schema %}

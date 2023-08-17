@@ -463,6 +463,8 @@
                 <a href="{{ product.url }}" class="block mb-[5px] leading-normal sf__pcard-name font-medium truncate-lines hover:text-color-secondary{% if settings.uppercase_prd_name %} uppercase{% endif %}">
                   {{ product.title }}
                 </a>
+<div product-id="{{ product.id }}" product-handle="{{ product.handle }}" class="alireviews-review-star-rating"></div>
+
               </h3>
             {% endif %}
             {% if settings.show_review_badge %}

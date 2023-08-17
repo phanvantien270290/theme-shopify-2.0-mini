@@ -55,7 +55,7 @@
 	--section-padding-bottom: {{ section.settings.padding_bottom }}px;
 	"
 >
-	<div class="{{ section.settings.container }}{% if has_bg == false %} section-my{% else %} section-py{% endif %}">
+	{% comment %} <div class="{{ section.settings.container }}{% if has_bg == false %} section-my{% else %} section-py{% endif %}">
 		{% if tab_header == 'horizontal' %}
 			{% render 'index-section-header', section_settings: section.settings %}
 		{% endif %}
@@ -182,7 +182,7 @@
 			</div>
 		</div>
 		{% endif %}
-	</div>
+	</div> {% endcomment %}
 
 </section>
 

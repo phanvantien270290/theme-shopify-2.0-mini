@@ -6,46 +6,86 @@
         "custom-content": {
           "type": "content",
           "settings": {
-            "content": "<div class=\"mb-10\"><img src=\"https://cdn.shopify.com/s/files/1/0561/2742/2636/files/faqs.jpg?v=1620784288\"></div>\n<h3 class=\"font-medium text-xl mb-4\">Awkwardness gives me great comfort. I’ve never been cool, but I’ve felt cool. I’ve been in the cool place, but I wasn’t really cool – I was trying to pass for hip or cool.</h3>\n<p>A girl should be two things: classy and fabulous. I am convinced that there can be luxury in simplicity. I wanted to dress the woman who lives and works, not the woman in a painting. It’s hard to balance everything. It’s always challenging. My relationships with producers or photographers – these are relationships that took years. I can’t get sucked into that celebrity thing, because I think it’s just crass. My aim is to make the poor look rich.</p>"
+            "content": "<p>Welcome to our FAQs section! We're here to provide you with all the information you need about Moonlight Magik's enchanting night lamps. If you have any questions that aren't covered here, feel free to contact us.<\/p>"
           }
         },
         "accordion-1": {
           "type": "accordion",
           "settings": {
-            "title": "What shipping methods are availbale?",
-            "content": "<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.<br/><br/>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>",
+            "title": "1. What is the inspiration behind Moonlight Magik?",
+            "content": "<h6>Moonlight Magik draws its inspiration from the serene beauty of the night sky and the magic it evokes. We aim to capture that sense of wonder and bring it into your living spaces.<\/h6>",
             "open": true
           }
         },
         "accordion-2": {
           "type": "accordion",
           "settings": {
-            "title": "How long will it take to get my package?",
-            "content": "<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>",
+            "title": "2. How do I adjust the brightness of the lamp?",
+            "content": "<h6>Most of our night lamps come with adjustable brightness settings. You can easily control the brightness level to create the perfect ambiance for your space.<\/h6>",
             "open": false
           }
         },
         "accordion-3": {
           "type": "accordion",
           "settings": {
-            "title": "Do you ship internationally?",
-            "content": "<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>",
+            "title": "3. Are your lamps suitable for children's rooms?",
+            "content": "<h6>Absolutely! Our diverse collection includes lamps that are perfect for children's rooms. We offer whimsical designs that spark imagination and emit a gentle glow, providing comfort for a peaceful sleep.<\/h6>",
             "open": false
           }
         },
         "accordion-4": {
           "type": "accordion",
           "settings": {
-            "title": "What payment methods are accepted?",
-            "content": "<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.</p>",
+            "title": "4. Are the lamps energy-efficient?",
+            "content": "<h6>Yes, we prioritize energy efficiency in our lamps. They are designed to provide a mesmerizing glow while consuming minimal energy.<\/h6>",
             "open": false
           }
         },
         "accordion-5": {
           "type": "accordion",
           "settings": {
-            "title": "Is buying on-line safe?",
-            "content": "<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>",
+            "title": "5. Do you offer international shipping?",
+            "content": "<h6>Yes, we offer international shipping to many locations. You can check the availability of shipping to your country during the checkout process.<\/h6>",
+            "open": false
+          }
+        },
+        "113654bd-fde4-4aa7-8a5b-e3b31119e093": {
+          "type": "accordion",
+          "settings": {
+            "title": "6. How do I clean and maintain the lamps?",
+            "content": "<p>Cleaning our lamps is simple. Use a soft, dry cloth to gently wipe away any dust. Avoid using harsh chemicals or abrasive materials that could damage the lamp's finish.<\/p>",
+            "open": false
+          }
+        },
+        "c12adbc7-86e1-40b2-9c68-e8fc4e12a8ac": {
+          "type": "accordion",
+          "settings": {
+            "title": "7. Can I receive a refund if I'm not satisfied?",
+            "content": "<h6>Yes, we have a hassle-free return and exchange policy. If you're not satisfied with your purchase, please refer to our <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">Refund Policy<\/a> page for detailed information.<\/h6>",
+            "open": false
+          }
+        },
+        "428996bc-03c5-4a29-bf98-a6fc7cf6d7f3": {
+          "type": "accordion",
+          "settings": {
+            "title": "8. Are your lamps suitable for gifts?",
+            "content": "<h6>Absolutely! Moonlight Magik lamps make wonderful gifts for various occasions. Whether it's a birthday, housewarming, or special celebration, our lamps are a thoughtful and unique choice.<\/h6>",
+            "open": false
+          }
+        },
+        "34ea5602-1dd7-434a-9c0e-d5adcb770a4a": {
+          "type": "accordion",
+          "settings": {
+            "title": "9. How do I get in touch with your customer support?",
+            "content": "<h6>For any inquiries, assistance, or further information, you can reach out to our friendly customer support team through our <a href=\"\/pages\/contact\" title=\"Contact Us\">Contact Us<\/a> page.<\/h6>",
+            "open": false
+          }
+        },
+        "bdcb2842-f4c7-41b5-83b7-2aa588519f33": {
+          "type": "accordion",
+          "settings": {
+            "title": "10. Do you offer customization options?",
+            "content": "<h6>At the moment, we offer the designs as featured on our website. However, we're always exploring new ideas. Sign up for our newsletter to stay updated on any future customization offerings.<\/h6>",
             "open": false
           }
         }
@@ -56,7 +96,12 @@
         "accordion-2",
         "accordion-3",
         "accordion-4",
-        "accordion-5"
+        "accordion-5",
+        "113654bd-fde4-4aa7-8a5b-e3b31119e093",
+        "c12adbc7-86e1-40b2-9c68-e8fc4e12a8ac",
+        "428996bc-03c5-4a29-bf98-a6fc7cf6d7f3",
+        "34ea5602-1dd7-434a-9c0e-d5adcb770a4a",
+        "bdcb2842-f4c7-41b5-83b7-2aa588519f33"
       ],
       "settings": {
         "container": "container",

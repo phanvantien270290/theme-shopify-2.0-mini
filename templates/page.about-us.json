@@ -11,7 +11,8 @@
         "be5d2488-3c71-471f-bb75-dbccb6970cb0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1_485206fa-6bcd-4c60-a185-bd75bda77de2.jpg",
+            "image": "shopify:\/\/shop_images\/full-moon-in-a-colorful-sky.jpg",
+            "link": "",
             "width": "100%",
             "alignment": "center",
             "block_custom_class": ""
@@ -20,9 +21,9 @@
         "f5e88f1f-ff68-4d03-b686-0cb9fe62fab1": {
           "type": "text",
           "settings": {
-            "title": "<h4 class=\"about__block-heading\">It pains me physically to see woman victimized,<br> rendered pathetic by fashion.</h4>\n<p class=\"about__block-subheading\">Awkwardness gives me great comfort. I’ve never been cool, but I’ve felt cool. I’ve been in the<br> cool place, but I wasn’t really cool – I was trying to pass for hip or cool.</p>",
+            "title": "<h4 class=\"about__block-heading\">Illuminating Your Nights with Moonlit Magik<\/h4>\n<p class=\"about__block-subheading\">Welcome to Moonlit Magik, your enchanting destination for exquisite night lamp products that transform ordinary spaces into magical realms of light and wonder. Our passion for beauty, tranquility, and the ethereal charm of the night sky led us to create a store where you can discover and bring home the perfect blend of artistry and illumination.<\/p>",
             "subheading": "",
-            "text": "<p>A girl should be two things: classy and fabulous. I am convinced that there can be luxury in simplicity. I wanted to dress the woman who lives and works, not the woman in a painting. It’s hard to balance everything. It’s always challenging. My relationships with producers or photographers – these are relationships that took years. I can’t get sucked into that celebrity thing, because I think it’s just crass. My aim is to make the poor look rich and the rich look poor. Vanity is the healthiest thing in life. I believe that my clothes can give people a better image of themselves – that it can increase their feelings of confidence and happiness. You can hide so much behind theatrics, and I don’t need to do that any more. I don’t really know how to do casual clothes.</p>",
+            "text": "<h5>Moonlit Magik was born from a deep appreciation for the soothing embrace of soft, gentle light that radiates from the moon. We believe that every space, be it a cozy bedroom, a serene reading nook, or a child's dreamy sanctuary, deserves to be adorned with captivating night lamps that inspire both relaxation and imagination.<\/h5>",
             "width": "100%",
             "alignment": "center",
             "align_text": "center",
@@ -38,7 +39,8 @@
         "4e1fb14f-ef60-4693-b6a2-2b26063e1b70": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2_7ec8fac3-633a-46c9-b503-dd8b20734495.jpg",
+            "image": "shopify:\/\/shop_images\/white-moon-purple-night-sky.jpg",
+            "link": "",
             "width": "50%",
             "alignment": "center",
             "block_custom_class": ""
@@ -47,7 +49,7 @@
         "9a3a8077-de29-4141-9162-b9484d4a85f8": {
           "type": "html",
           "settings": {
-            "code": "<div class=\"sf__about-custom-list\">\n  <h3>We are proudly<br> Australian.</h3>\n  <ul>\n    <li>\n      <span><img src=\"https://cdn.shopify.com/s/files/1/0561/2742/2636/files/icon1.svg?v=1627616411\"></span>\n      <div class=\"rte\">\n          <h4>Soft Fabric</h4>\n          <p class=\"text-color-subtext\">Get complimentary ground shipping on every<br> order.Don’t love it? Send it back, on us.</p>\n      </div>\n    </li>\n    <li>\n      <span><img src=\"https://cdn.shopify.com/s/files/1/0561/2742/2636/files/icon2_daf1b6c2-ef2e-416c-ae6a-a7ddd145b6c5.svg?v=1627616411\"></span>\n      <div class=\"rte\">\n          <h4>Lightweight</h4>\n          <p class=\"text-color-subtext\">Join Minimog Rewards to earn gift cards<br>\nand enjoy exclusive member benefits.</p>\n      </div>\n    </li>\n    <li>\n      <span><img src=\"https://cdn.shopify.com/s/files/1/0561/2742/2636/files/icon3.svg?v=1627616411\"></span>\n      <div class=\"rte\">\n          <h4>All Day Comfort</h4>\n          <p class=\"text-color-subtext\">We believe getting dressed should be the<br> easiest part of your day.</p>\n      </div>\n    </li>\n  </ul>\n</div>",
+            "code": "<div class=\"sf__about-custom-list\">\n  <h3>What Sets Us Apart.<br> <\/h3>\n  <ul>\n    <li>\n      <span><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/icon1.svg?v=1627616411\"><\/span>\n      <div class=\"rte\">\n          <h4>Ethereal Design<\/h4>\n          <p>Each lamp boasts intricate celestial patterns and designs that transport you to a realm of enchantment.<\/p>\n      <\/div>\n    <\/li>\n    <li>\n      <span><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/icon2_daf1b6c2-ef2e-416c-ae6a-a7ddd145b6c5.svg?v=1627616411\"><\/span>\n      <div class=\"rte\">\n          <h4>Soft and Soothing Glow<\/h4>\n          <p>Our lamps emit a soft and soothing glow that creates a calming ambiance in any space. The gentle light promotes relaxation and creates a tranquil atmosphere, perfect for winding down after a long day.<\/p>\n      <\/div>\n    <\/li>\n    <li>\n      <span><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/icon3.svg?v=1627616411\"><\/span>\n      <div class=\"rte\">\n          <h4>Enhanced Sleep Environment<\/h4>\n          <p>The gentle illumination from our night lamps provides a soothing environment conducive to sleep. Say goodbye to harsh, bright lights that disrupt your sleep cycle.<\/p>\n      <\/div>\n    <\/li>\n  <\/ul>\n<\/div>",
             "width": "50%",
             "block_custom_class": "sf__about-custom-html"
           }
@@ -55,9 +57,9 @@
         "28e3ce35-e364-43f3-ba87-18b633233063": {
           "type": "text",
           "settings": {
-            "title": "<h4 class=\"about__block-heading\">The world needs to move fast to make a meaningful<br> difference in the fight against climate change.</h4>",
+            "title": "<h4 class=\"about__block-heading\">Our Mission<\/h4>",
             "subheading": "",
-            "text": "<p>A girl should be two things: classy and fabulous. I am convinced that there can be luxury in simplicity. I wanted to dress the woman who lives and works, not the woman in a painting. It’s hard to balance everything. It’s always challenging. My relationships with producers or photographers – these are relationships that took years. I can’t get sucked into that celebrity thing, because I think it’s just crass. My aim is to make the poor look rich and the rich look poor. Vanity is the healthiest thing in life. I believe that my clothes can give people a better image of themselves – that it can increase their feelings of confidence and happiness. You can hide so much behind theatrics, and I don’t need to do that any more. I don’t really know how to do casual clothes.</p>",
+            "text": "<h6>Our mission is to infuse a touch of magic into your everyday life. We believe that a well-chosen night lamp has the power to create a serene ambiance, evoke emotions, and inspire dreams. Moonlit Magik lamps aren't just products; they're companions that accompany you on your journey through the night, casting a warm glow that soothes your soul.<\/h6>",
             "width": "100%",
             "alignment": "center",
             "align_text": "center",
@@ -70,76 +72,22 @@
             "block_custom_class": "sf__about-block sf__about-block-text sf__about-block-text-2"
           }
         },
-        "c6a8b57f-c54c-43f1-9771-9ea5d88a2f36": {
+        "726cede5-fcb4-4df7-866e-b57dc458dda0": {
           "type": "text",
           "settings": {
-            "title": "Our Team",
+            "title": "<h4 class=\"about__block-heading\">Join Us on This Journey<\/h4>",
             "subheading": "",
-            "text": "",
+            "text": "<h6><strong>Thank you for choosing Moonlit Magik. Illuminate your nights with us. <\/strong><\/h6><h6>We are dedicated to providing exceptional products and a seamless shopping experience that leaves you with not just a night lamp, but a piece of enchantment.<\/h6><h6>For inquiries, custom orders, or assistance, please don't hesitate to <a href=\"\/pages\/contact\" title=\"Contact Us\">contact us<\/a>.<\/h6>",
             "width": "100%",
             "alignment": "center",
             "align_text": "center",
             "text_size": "medium",
             "text_color": "black",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify:\/\/pages\/contact",
             "button_style": "sf__btn-primary",
             "button_size": "",
-            "block_custom_class": "sf__about-custom-heading"
-          }
-        },
-        "859f4ef2-676f-4587-9ae8-3a19ffa439dd": {
-          "type": "image_card",
-          "settings": {
-            "width": "33%",
-            "content_position": "bottom_left",
-            "content_alignment": "left",
-            "text_size": "medium",
-            "text_color": "black",
-            "image": "shopify://shop_images/3_79558a8b-6310-440f-91ee-bf86f39880db.png",
-            "link": "",
-            "title": "Edward Lindgren",
-            "subtitle": "<span class=\"text-color-subtext\">CHIEF OPERATING OFFICER</span>",
-            "button_label": "",
-            "button_style": "sf__btn-primary",
-            "button_size": "",
-            "block_custom_class": "sf__about-card-custom"
-          }
-        },
-        "dc4597e9-ca80-4d0f-9e30-ff28c96dd3aa": {
-          "type": "image_card",
-          "settings": {
-            "width": "33%",
-            "content_position": "bottom_left",
-            "content_alignment": "left",
-            "text_size": "medium",
-            "text_color": "black",
-            "image": "shopify://shop_images/4_873abf10-c96b-436a-99e7-94f2506edaf9.jpg",
-            "link": "",
-            "title": "Nado Husa",
-            "subtitle": "<span class=\"text-color-subtext\">CO-FOUNDER</span>",
-            "button_label": "",
-            "button_style": "sf__btn-primary",
-            "button_size": "",
-            "block_custom_class": "sf__about-card-custom"
-          }
-        },
-        "a1a4a67f-c83f-4629-a006-e44f56c80bf5": {
-          "type": "image_card",
-          "settings": {
-            "width": "33%",
-            "content_position": "bottom_left",
-            "content_alignment": "left",
-            "text_size": "medium",
-            "text_color": "black",
-            "image": "shopify://shop_images/5_5678f372-8f3b-4673-92a3-55b47a494056.jpg",
-            "link": "",
-            "title": "Chineze Afamefuna",
-            "subtitle": "<span class=\"text-color-subtext\">MARKETING</span>",
-            "button_label": "",
-            "button_style": "sf__btn-primary",
-            "button_size": "",
-            "block_custom_class": "sf__about-card-custom"
+            "block_custom_class": ""
           }
         }
       },
@@ -149,10 +97,7 @@
         "4e1fb14f-ef60-4693-b6a2-2b26063e1b70",
         "9a3a8077-de29-4141-9162-b9484d4a85f8",
         "28e3ce35-e364-43f3-ba87-18b633233063",
-        "c6a8b57f-c54c-43f1-9771-9ea5d88a2f36",
-        "859f4ef2-676f-4587-9ae8-3a19ffa439dd",
-        "dc4597e9-ca80-4d0f-9e30-ff28c96dd3aa",
-        "a1a4a67f-c83f-4629-a006-e44f56c80bf5"
+        "726cede5-fcb4-4df7-866e-b57dc458dda0"
       ],
       "settings": {
         "heading": "",
@@ -164,6 +109,8 @@
         "gap": 30,
         "use_scroll_mobile": false,
         "gap_mobile": 16,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "custom_class": "sf__page-about"
       }
     },
@@ -173,9 +120,10 @@
         "c8a16382-6620-4bcf-ba3e-1bb9d69d5b77": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify://shop_images/1_292dc3a2-215e-4ce3-afba-7b00845e162f.png",
+            "image": "shopify:\/\/shop_images\/truck-solid.svg",
+            "image_by_url": "",
             "title": "Free Shipping",
-            "description": "<p>Free Shipping for orders over £130</p>",
+            "description": "<h6>For orders over $120<\/h6>",
             "link": "",
             "button_label": "",
             "button_link": "",
@@ -186,9 +134,10 @@
         "13184979-bd7f-482c-865f-60738819a029": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify://shop_images/2_4ab3f0fa-7ff5-4f0d-ba62-503f7f2fc192.png",
+            "image": "shopify:\/\/shop_images\/money-check-dollar-solid.svg",
+            "image_by_url": "",
             "title": "Money Guarantee",
-            "description": "<p>Within 30 days for an exchange.</p>",
+            "description": "<h6>Refund within 30 days.<\/h6>",
             "link": "",
             "button_label": "",
             "button_link": "",
@@ -199,9 +148,10 @@
         "c4cf2072-efce-4cb9-b184-14404b61e2a3": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify://shop_images/3_6044e4d8-7c0b-4f31-aac4-89baf1f7a0a9.png",
+            "image": "shopify:\/\/shop_images\/comments-solid.svg",
+            "image_by_url": "",
             "title": "Online Support",
-            "description": "<p>24 hours a day, 7 days a week</p>",
+            "description": "<h6>24\/7 dedicated support.<\/h6>",
             "link": "",
             "button_label": "",
             "button_link": "",
@@ -212,9 +162,10 @@
         "8e15d521-c62b-4552-a64a-94ead24641e5": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify://shop_images/4_2f378f25-cac8-415a-b98b-e491bd3fd4f3.png",
+            "image": "shopify:\/\/shop_images\/credit-card-solid.svg",
+            "image_by_url": "",
             "title": "Flexible Payment",
-            "description": "<p>Pay with Multiple Credit Cards</p>",
+            "description": "<h6>Pay with anything you like.<\/h6>",
             "link": "",
             "button_label": "",
             "button_link": "",
@@ -248,6 +199,8 @@
         "show_navigation": false,
         "use_scroll_mobile": false,
         "use_grid_column_mb": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "custom_class": "sf__page-about"
       }
     }
